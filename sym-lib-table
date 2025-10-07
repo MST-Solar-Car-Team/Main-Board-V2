@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "REG1117-5")(type "KiCad")(uri "${KIPRJMOD}/components/REG1117-5/REG1117-5.kicad_sym")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/components/teensy.pretty-master/teensy.lib")(options "")(descr ""))
+  (lib (name "C1F-5")(type "KiCad")(uri "${KIPRJMOD}/components/C1F-5/C1F-5.kicad_sym")(options "")(descr ""))
+  (lib (name "GRT21BC71E106KE13L")(type "KiCad")(uri "${KIPRJMOD}/components/Cap10U/GRT21BC71E106KE13L.kicad_sym")(options "")(descr ""))
+  (lib (name "GRM188R61E475KE11D")(type "KiCad")(uri "${KIPRJMOD}/components/GRM188R61E475KE11D/GRM188R61E475KE11D.kicad_sym")(options "")(descr ""))
+  (lib (name "RN73C2B100RBTDF")(type "KiCad")(uri "${KIPRJMOD}/components/RN73C2B100RBTDF/RN73C2B100RBTDF.kicad_sym")(options "")(descr ""))
+  (lib (name "SMAJ36CA")(type "KiCad")(uri "${KIPRJMOD}/components/SMAJ36CA/SMAJ36CA.kicad_sym")(options "")(descr ""))
+  (lib (name "776280-1")(type "KiCad")(uri "${KIPRJMOD}/components/776280-1/776280-1.kicad_sym")(options "")(descr ""))
+)
