@@ -1,0 +1,188 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6338949b-2f37-4386-b164-ef098b197c2b")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Todo:\n- Figure out SPI protocol\n- 3.3 V to 12 V dio converter\n- connector"
+		(exclude_from_sim no)
+		(at 167.64 80.01 0)
+		(size 69.85 43.18)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left top)
+		)
+		(uuid "c18a59cb-c209-4169-bd50-795fe491b834")
+	)
+	(bus_entry
+		(at 190.5 35.56)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77850d7e-6cc0-40fc-a9c5-f28426f88889")
+	)
+	(bus_entry
+		(at 213.36 35.56)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8040e653-8952-4b6e-854d-ac34db6a6384")
+	)
+	(bus_entry
+		(at 223.52 35.56)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "818755d4-1605-4a1a-86f4-b25595fae854")
+	)
+	(bus_entry
+		(at 201.93 35.56)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b6682a3-962d-451e-96c5-3e4b6a3baedc")
+	)
+	(bus
+		(pts
+			(xy 190.5 35.56) (xy 201.93 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f4a1bf6-9b39-429f-82d4-8e0a06ae6768")
+	)
+	(bus
+		(pts
+			(xy 201.93 35.56) (xy 213.36 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77e013b6-8161-4b12-81e6-f118ca8f1ae7")
+	)
+	(bus
+		(pts
+			(xy 213.36 35.56) (xy 223.52 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8334a10a-88ef-420f-9d98-7bc005aa730c")
+	)
+	(bus
+		(pts
+			(xy 223.52 35.56) (xy 231.14 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "928d436f-d2bc-45c8-99e0-5dc3247573c9")
+	)
+	(label "MISO"
+		(at 210.82 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "277bfcd8-11c9-462e-a656-81c52eab98ce")
+	)
+	(label "CS"
+		(at 187.96 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2c77df4b-eb33-4026-9bf9-f4d80883fb87")
+	)
+	(label "MOSI"
+		(at 199.39 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b5f2bec7-b2fa-4ec7-8c53-27e9b526b89f")
+	)
+	(label "SCK"
+		(at 220.98 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e3e796cd-9448-4a65-800b-774c993b8209")
+	)
+	(hierarchical_label "{SPI}"
+		(shape output)
+		(at 231.14 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01387e9d-2858-4377-8054-68396ff30207")
+	)
+	(hierarchical_label "Reverse"
+		(shape output)
+		(at 229.87 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1825d072-7461-43d1-8b80-e67014d28f86")
+	)
+	(hierarchical_label "Hazards"
+		(shape output)
+		(at 229.87 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66175dc8-8c84-4f51-bfcb-f279f7705861")
+	)
+	(hierarchical_label "ExtraSwitch"
+		(shape output)
+		(at 229.87 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "95fe17e8-22d1-40c4-a820-c5b90314d104")
+	)
+)

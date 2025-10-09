@@ -8,4 +8,5 @@
   (lib (name "RN73C2B100RBTDF")(type "KiCad")(uri "${KIPRJMOD}/components/RN73C2B100RBTDF/RN73C2B100RBTDF.kicad_sym")(options "")(descr ""))
   (lib (name "SMAJ36CA")(type "KiCad")(uri "${KIPRJMOD}/components/SMAJ36CA/SMAJ36CA.kicad_sym")(options "")(descr ""))
   (lib (name "776280-1")(type "KiCad")(uri "${KIPRJMOD}/components/776280-1/776280-1.kicad_sym")(options "")(descr ""))
+  (lib (name "430450601")(type "KiCad")(uri "${KIPRJMOD}/components/MolexConnector/430450601.kicad_sym")(options "")(descr ""))
 )

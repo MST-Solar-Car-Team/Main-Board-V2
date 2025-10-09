@@ -411,6 +411,26 @@
     [
       "c01682a2-308a-4674-9b8f-80e441c05d08",
       "Root"
+    ],
+    [
+      "e5f6def6-a034-4879-9d0e-95711d983ac3",
+      "Can"
+    ],
+    [
+      "6f947cd9-6d19-42c0-a2bd-2a6e56b819b4",
+      "Steering"
+    ],
+    [
+      "28e65c4e-456b-4c98-96d9-cb6b5559e465",
+      "Relays"
+    ],
+    [
+      "59933eaa-143d-4dd7-9561-ffe8f8689484",
+      "SwitchBox"
+    ],
+    [
+      "7afff3b1-d3fb-406b-9256-f527ad4bacee",
+      "ExtraInputs"
     ]
   ],
   "text_variables": {}

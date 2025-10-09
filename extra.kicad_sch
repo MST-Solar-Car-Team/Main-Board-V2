@@ -1,0 +1,72 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "1f79bd55-0fe8-4db6-8cc3-e0a39946f968")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Todo:\n- Op Amp Analog inputs\n- Find connectors\n- Switch for going between UART and Analog pins"
+		(exclude_from_sim no)
+		(at 72.39 85.09 0)
+		(size 74.93 54.61)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left top)
+		)
+		(uuid "77d74dff-000f-4139-bd04-0c8e9165e28c")
+	)
+	(hierarchical_label "A2"
+		(shape output)
+		(at 194.31 82.55 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "13f3bcbd-ebb6-4128-b382-c3f13abcac51")
+	)
+	(hierarchical_label "TX"
+		(shape output)
+		(at 194.31 113.03 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "98ce15da-04f9-4bd6-b77c-8d5ecea8ffec")
+	)
+	(hierarchical_label "RX"
+		(shape output)
+		(at 193.04 100.33 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "b25df84a-dda8-48ca-a30c-231aed1ecd9f")
+	)
+	(hierarchical_label "A1"
+		(shape output)
+		(at 195.58 68.58 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "e9d097d8-228f-46f4-b67f-dace2d3bfa62")
+	)
+)
