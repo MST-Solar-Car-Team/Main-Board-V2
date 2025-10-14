@@ -36,6 +36,17 @@
 		)
 		(uuid "13f3bcbd-ebb6-4128-b382-c3f13abcac51")
 	)
+	(hierarchical_label "GasPedal"
+		(shape output)
+		(at 194.31 128.27 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "52809bc1-642d-447e-9bde-20ab16687ea9")
+	)
 	(hierarchical_label "TX"
 		(shape output)
 		(at 194.31 113.03 0)

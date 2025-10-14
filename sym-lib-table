@@ -9,4 +9,8 @@
   (lib (name "SMAJ36CA")(type "KiCad")(uri "${KIPRJMOD}/components/SMAJ36CA/SMAJ36CA.kicad_sym")(options "")(descr ""))
   (lib (name "776280-1")(type "KiCad")(uri "${KIPRJMOD}/components/776280-1/776280-1.kicad_sym")(options "")(descr ""))
   (lib (name "430450601")(type "KiCad")(uri "${KIPRJMOD}/components/MolexConnector/430450601.kicad_sym")(options "")(descr ""))
+  (lib (name "VOM618A-3T")(type "KiCad")(uri "${KIPRJMOD}/components/VOM618A-3T/VOM618A-3T.kicad_sym")(options "")(descr ""))
+  (lib (name "2-1445057-2")(type "KiCad")(uri "${KIPRJMOD}/components/2-1445057-2/2-1445057-2.kicad_sym")(options "")(descr ""))
+  (lib (name "PRE29-12V-S-450-1A-EF")(type "KiCad")(uri "${KIPRJMOD}/components/PRE29-12V-S-450-1A-EF/PRE29-12V-S-450-1A-EF.kicad_sym")(options "")(descr ""))
+  (lib (name "J107F1AS123VDC.36")(type "KiCad")(uri "${KIPRJMOD}/components/J107F1AS123VDC.36/J107F1AS123VDC.36.kicad_sym")(options "")(descr ""))
 )
