@@ -1120,7 +1120,7 @@
 	)
 	(text_box "Todo:\n- Make indirect pin activation \n  to not draw power from pin"
 		(exclude_from_sim no)
-		(at 204.47 111.76 0)
+		(at 17.78 101.6 0)
 		(size 68.58 26.67)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
