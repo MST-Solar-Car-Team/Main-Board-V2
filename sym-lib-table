@@ -15,4 +15,6 @@
   (lib (name "J107F1AS123VDC.36")(type "KiCad")(uri "${KIPRJMOD}/components/J107F1AS123VDC.36/J107F1AS123VDC.36.kicad_sym")(options "")(descr ""))
   (lib (name "OPA325IDBVR")(type "KiCad")(uri "${KIPRJMOD}/components/OPA325IDBVR/OPA325IDBVR.kicad_sym")(options "")(descr ""))
   (lib (name "3-794630-4")(type "KiCad")(uri "${KIPRJMOD}/components/3-794630-4/3-794630-4.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-10-14_23-44-50")(type "KiCad")(uri "${KIPRJMOD}/components/ADM3057EBRWZ/2025-10-14_23-44-50.kicad_sym")(options "")(descr ""))
+  (lib (name "BCS-114-L-S-PE-BE")(type "KiCad")(uri "${KIPRJMOD}/components/BCS/BCS-114-L-S-PE-BE.kicad_sym")(options "")(descr ""))
 )

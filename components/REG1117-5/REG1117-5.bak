@@ -146,6 +146,24 @@
 					(type background)
 				)
 			)
+			(pin input line
+				(at -17.78 2.54 0)
+				(length 5.08)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
 			(pin power_in line
 				(at 17.78 -2.54 180)
 				(length 5.08)
@@ -166,24 +184,6 @@
 			)
 		)
 		(symbol "REG1117-5_1_0"
-			(pin power_in line
-				(at -17.78 2.54 0)
-				(length 5.08)
-				(name "VIN"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin power_out line
 				(at 17.78 2.54 180)
 				(length 5.08)
