@@ -1380,6 +1380,10 @@
 		(uuid "6b0c8361-c1d9-4b95-af31-2bb41d7e83c9")
 	)
 	(no_connect
+		(at 116.84 58.42)
+		(uuid "39464441-00d0-4b33-a675-99221338e28e")
+	)
+	(no_connect
 		(at 167.64 76.2)
 		(uuid "81c96a6d-92ab-48de-a43a-b8f70e6885f5")
 	)
@@ -1522,16 +1526,6 @@
 			(type default)
 		)
 		(uuid "1e8383f2-bd31-4b4b-8d73-05f0e6fe9b57")
-	)
-	(wire
-		(pts
-			(xy 92.71 48.26) (xy 97.79 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21a59609-716f-45fe-a3dd-36cf707b0b5c")
 	)
 	(wire
 		(pts
@@ -2132,26 +2126,6 @@
 			(type default)
 		)
 		(uuid "f0ef3856-3023-4b04-8cdc-a00ea69bc821")
-	)
-	(wire
-		(pts
-			(xy 97.79 48.26) (xy 97.79 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1d8785d-fa60-4326-ab7d-cc65e1baac38")
-	)
-	(wire
-		(pts
-			(xy 97.79 58.42) (xy 116.84 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f284d710-ab2c-46e1-94bd-1ff47008283b")
 	)
 	(wire
 		(pts
@@ -3673,16 +3647,6 @@
 		(pin "ExtraSwitch1" output
 			(at 92.71 45.72 0)
 			(uuid "d7b19685-0c0c-44c3-a2df-1a2706a15e3a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ExtraSwitch2" output
-			(at 92.71 48.26 0)
-			(uuid "a9e744f4-547f-46ca-8d97-f6e4064733f6")
 			(effects
 				(font
 					(size 1.27 1.27)
