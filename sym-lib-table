@@ -17,4 +17,6 @@
   (lib (name "3-794630-4")(type "KiCad")(uri "${KIPRJMOD}/components/3-794630-4/3-794630-4.kicad_sym")(options "")(descr ""))
   (lib (name "2025-10-14_23-44-50")(type "KiCad")(uri "${KIPRJMOD}/components/ADM3057EBRWZ/2025-10-14_23-44-50.kicad_sym")(options "")(descr ""))
   (lib (name "BCS-114-L-S-PE-BE")(type "KiCad")(uri "${KIPRJMOD}/components/BCS/BCS-114-L-S-PE-BE.kicad_sym")(options "")(descr ""))
+  (lib (name "2N2222A")(type "KiCad")(uri "${KIPRJMOD}/components/2N2222A/2N2222A.kicad_sym")(options "")(descr ""))
+  (lib (name "PRE29-5V-S-450-1A-E")(type "KiCad")(uri "${KIPRJMOD}/components/PRE29-5V-S-450-1A-E/PRE29-5V-S-450-1A-E.kicad_sym")(options "")(descr ""))
 )

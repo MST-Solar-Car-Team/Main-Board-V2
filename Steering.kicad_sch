@@ -30,7 +30,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "2-1445057-2:TE_2-1445057-2"
+			(property "Footprint" "TE_2-1445057-2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -40,12 +40,13 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -188,16 +189,6 @@
 					(hide yes)
 				)
 			)
-			(property "FOOTPRINT" "TE_2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
 			(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
 				(at 0 0 0)
 				(effects
@@ -259,16 +250,6 @@
 				)
 			)
 			(property "FOOTPRINT_PATH" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
 				(at 0 0 0)
 				(effects
 					(font

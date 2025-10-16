@@ -30,7 +30,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "2-1445057-2:TE_2-1445057-2"
+			(property "Footprint" "TE_2-1445057-2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -40,12 +40,13 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -188,16 +189,6 @@
 					(hide yes)
 				)
 			)
-			(property "FOOTPRINT" "TE_2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
 			(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
 				(at 0 0 0)
 				(effects
@@ -259,16 +250,6 @@
 				)
 			)
 			(property "FOOTPRINT_PATH" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -449,15 +430,15 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "2-1445057-2_1"
+		(symbol "2N2222A:2N2222A"
 			(pin_names
 				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at -2.5407 5.7165 0)
+			(property "Reference" "Q"
+				(at -10.16 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -465,8 +446,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "2-1445057-2"
-				(at -2.541 -7.623 0)
+			(property "Value" "2N2222A"
+				(at -10.16 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -474,7 +455,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "2-1445057-2:TE_2-1445057-2"
+			(property "Footprint" "2N2222A:TO92254P470H750-3"
 				(at 0 0 0)
 				(effects
 					(font
@@ -502,7 +483,7 @@
 					(hide yes)
 				)
 			)
-			(property "Check_prices" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(property "MF" "Diotec Semiconductor"
 				(at 0 0 0)
 				(effects
 					(font
@@ -512,7 +493,7 @@
 					(hide yes)
 				)
 			)
-			(property "PUBLISHED_DATE" ""
+			(property "SNAPEDA_PACKAGE_ID" "121774"
 				(at 0 0 0)
 				(effects
 					(font
@@ -522,37 +503,7 @@
 					(hide yes)
 				)
 			)
-			(property "VOLTAGE_RATING" "250VAC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Micro MATE-N-LOK Series,3mm Pitch 2 Way Right Angle PCB Header,Solder Term,5A | TE Connectivity 2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "LIBRARY_PATH" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SIGNAL_INTEGRITY" ""
+			(property "Package" "TO-92 Diotec"
 				(at 0 0 0)
 				(effects
 					(font
@@ -572,7 +523,7 @@
 					(hide yes)
 				)
 			)
-			(property "COMPLIANCE" "Lead free/RoHS compliant"
+			(property "Check_prices" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"
 				(at 0 0 0)
 				(effects
 					(font
@@ -582,7 +533,7 @@
 					(hide yes)
 				)
 			)
-			(property "POS" "2"
+			(property "STANDARD" "IPC 7351B"
 				(at 0 0 0)
 				(effects
 					(font
@@ -592,7 +543,7 @@
 					(hide yes)
 				)
 			)
-			(property "TE_PN" "2-1445057-2"
+			(property "PARTREV" "N/A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -602,7 +553,7 @@
 					(hide yes)
 				)
 			)
-			(property "LIBRARY_REF" "2-1445057-2.lbr"
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"
 				(at 0 0 0)
 				(effects
 					(font
@@ -612,7 +563,7 @@
 					(hide yes)
 				)
 			)
-			(property "STANDARD" "Manufacturer Recommendations"
+			(property "MP" "2N2222A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -622,7 +573,7 @@
 					(hide yes)
 				)
 			)
-			(property "Package" "None"
+			(property "Description_1" "BJT, TO-92, 40V, 600mA, NPN, 0.625W, 150°C"
 				(at 0 0 0)
 				(effects
 					(font
@@ -632,157 +583,7 @@
 					(hide yes)
 				)
 			)
-			(property "FOOTPRINT" "TE_2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PUBLISHER" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PACKAGE" "PCB, Surface Mount,Right angle"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SERIES" "-"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "CURRENT_RATING" "-"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESIGNATOR" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "FOOTPRINT_PATH" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "LATEST_REV_DATE" "20JUN2017"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SPICE_MODEL" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "TE Connectivity"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Comment" "2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MF" "TE Connectivity"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PART_REV" "C3"
+			(property "MANUFACTURER" "Diotec Semiconductor"
 				(at 0 0 0)
 				(effects
 					(font
@@ -802,7 +603,7 @@
 					(hide yes)
 				)
 			)
-			(property "FOOTPRINT_REFERENCE" ""
+			(property "MAXIMUM_PACKAGE_HEIGHT" "7.5 mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -812,70 +613,58 @@
 					(hide yes)
 				)
 			)
-			(property "MP" "2-1445057-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PITCH" "3mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "LATEST_REV_NOTE" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "2-1445057-2_1_0_0"
+			(symbol "2N2222A_0_0"
 				(rectangle
-					(start -2.54 -5.08)
-					(end 5.08 5.08)
+					(start -0.254 -2.54)
+					(end 0.508 2.54)
 					(stroke
-						(width 0.254)
+						(width 0.1)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.778 -1.524) (xy 2.54 -2.54) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.54 -2.04) (xy 0.308 -1.424)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 0.508 1.524)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 				(pin passive line
-					(at -7.62 2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -2.54 0)
-					(length 5.08)
-					(name "2"
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "~"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -890,10 +679,46 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
 			)
 			(embedded_fonts no)
 		)
-		(symbol "J107F1AS123VDC.36:J107F1AS123VDC.36"
+		(symbol "PRE29-5V-S-450-1A-E:PRE29-5V-S-450-1A-E"
 			(pin_names
 				(offset 1.016)
 			)
@@ -909,7 +734,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "J107F1AS123VDC.36"
+			(property "Value" "PRE29-5V-S-450-1A-E"
 				(at -7.62 -7.62 0)
 				(effects
 					(font
@@ -918,7 +743,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "J107F1AS123VDC.36:RELAY_J107F1AS123VDC.36"
+			(property "Footprint" "PRE29-5V-S-450-1A-E:RELAY_PRE29-5V-S-450-1A-E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -946,7 +771,7 @@
 					(hide yes)
 				)
 			)
-			(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
+			(property "MF" "CUI DEVICES"
 				(at 0 0 0)
 				(effects
 					(font
@@ -956,7 +781,7 @@
 					(hide yes)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=snap"
+			(property "MAXIMUM_PACKAGE_HEIGHT" "16 mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -966,7 +791,7 @@
 					(hide yes)
 				)
 			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "15.29mm"
+			(property "Package" "Package"
 				(at 0 0 0)
 				(effects
 					(font
@@ -976,7 +801,7 @@
 					(hide yes)
 				)
 			)
-			(property "CREATOR" "DIZAR"
+			(property "Price" "None"
 				(at 0 0 0)
 				(effects
 					(font
@@ -986,17 +811,7 @@
 					(hide yes)
 				)
 			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=eda"
+			(property "Check_prices" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=eda"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1016,7 +831,7 @@
 					(hide yes)
 				)
 			)
-			(property "PARTREV" "B"
+			(property "PARTREV" "1.0"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1026,7 +841,7 @@
 					(hide yes)
 				)
 			)
-			(property "VERIFIER" ""
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=snap"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1036,7 +851,7 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "CIT Relay and Switch"
+			(property "MP" "PRE29-5V-S-450-1A-E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1046,7 +861,7 @@
 					(hide yes)
 				)
 			)
-			(property "MP" "J107F1AS123VDC.36"
+			(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1056,7 +871,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 3VDC Coil Through Hole"
+			(property "Availability" "In Stock"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1066,7 +881,7 @@
 					(hide yes)
 				)
 			)
-			(property "MANUFACTURER" "CIT Relay and Switch"
+			(property "MANUFACTURER" "CUI DEVICES"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1076,13 +891,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "J107F1AS123VDC.36_0_0"
+			(symbol "PRE29-5V-S-450-1A-E_0_0"
 				(polyline
 					(pts
 						(xy -7.62 2.54) (xy -2.54 2.54)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1094,7 +909,7 @@
 						(xy -7.62 -2.54) (xy -2.54 -2.54)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1117,7 +932,7 @@
 						(xy -3.81 0.635) (xy -2.54 0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1129,7 +944,7 @@
 						(xy -3.81 -0.635) (xy -3.81 0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1141,7 +956,7 @@
 						(xy -2.54 2.54) (xy -2.54 0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1153,7 +968,7 @@
 						(xy -2.54 0.635) (xy -1.27 0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1165,7 +980,7 @@
 						(xy -2.54 -0.635) (xy -3.81 -0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1177,7 +992,7 @@
 						(xy -2.54 -0.635) (xy -2.54 -2.54)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1189,7 +1004,7 @@
 						(xy -1.27 0.635) (xy -1.27 -0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1201,7 +1016,7 @@
 						(xy -1.27 -0.635) (xy -2.54 -0.635)
 					)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -1268,7 +1083,7 @@
 					)
 				)
 				(pin passive line
-					(at -12.7 2.54 0)
+					(at -10.16 2.54 0)
 					(length 5.08)
 					(name "~"
 						(effects
@@ -1277,7 +1092,7 @@
 							)
 						)
 					)
-					(number "COIL1"
+					(number "1"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -1286,7 +1101,7 @@
 					)
 				)
 				(pin passive line
-					(at -12.7 -2.54 0)
+					(at -10.16 -2.54 0)
 					(length 5.08)
 					(name "~"
 						(effects
@@ -1295,7 +1110,7 @@
 							)
 						)
 					)
-					(number "COIL2"
+					(number "2"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -1304,7 +1119,7 @@
 					)
 				)
 				(pin passive line
-					(at 12.7 2.54 180)
+					(at 10.16 2.54 180)
 					(length 5.08)
 					(name "~"
 						(effects
@@ -1313,7 +1128,7 @@
 							)
 						)
 					)
-					(number "COM"
+					(number "3"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -1322,7 +1137,7 @@
 					)
 				)
 				(pin passive line
-					(at 12.7 -2.54 180)
+					(at 10.16 -2.54 180)
 					(length 5.08)
 					(name "~"
 						(effects
@@ -1331,7 +1146,7 @@
 							)
 						)
 					)
-					(number "NO"
+					(number "4"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -1467,6 +1282,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -1581,40 +1521,51 @@
 		)
 		(uuid b8b4e9fd-4d2d-4d64-9224-33880a12da40)
 	)
-	(text_box "Todo:\n- Make indirect pin activation \n  to not draw power from pin"
-		(exclude_from_sim no)
-		(at 17.78 101.6 0)
-		(size 68.58 26.67)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(face "KiCad Font")
-				(size 2.794 2.794)
-			)
-			(justify left top)
-		)
-		(uuid "51c806f4-dfcc-48f3-9dde-cb40766aeeae")
+	(junction
+		(at 71.12 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75dd4ac0-1dfd-4e5c-81c9-27fd575c65b8")
+	)
+	(junction
+		(at 71.12 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d541ae99-9419-4642-8c7e-5875a4c784d3")
 	)
 	(wire
 		(pts
-			(xy 123.19 85.09) (xy 130.81 85.09)
+			(xy 165.1 30.48) (xy 176.53 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "037a7090-c2cb-4c50-babb-2c383fd50b31")
+		(uuid "026bf701-c172-4482-bd71-7f44bb6e08cd")
 	)
 	(wire
 		(pts
-			(xy 68.58 48.26) (xy 81.28 48.26)
+			(xy 176.53 82.55) (xy 176.53 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02fb7514-48b2-4500-bc2c-8d874f4976f9")
+	)
+	(wire
+		(pts
+			(xy 76.2 80.01) (xy 87.63 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1296e185-c044-40c4-8b96-fc55a4ed9de7")
+	)
+	(wire
+		(pts
+			(xy 76.2 43.18) (xy 87.63 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1624,7 +1575,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 31.75) (xy 74.93 31.75)
+			(xy 71.12 29.21) (xy 81.28 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1634,53 +1585,73 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 82.55) (xy 80.01 83.82)
+			(xy 71.12 66.04) (xy 71.12 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1e794136-49ef-46c5-b290-3de368b0e4c6")
+		(uuid "22bdf208-05b5-46e4-aba9-c5acd0099828")
 	)
 	(wire
 		(pts
-			(xy 34.29 82.55) (xy 34.29 86.36)
+			(xy 152.4 87.63) (xy 153.67 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "25c4ca90-7f18-44f0-8e5f-513214d67739")
+		(uuid "2c8724a4-5992-4535-82d5-a351e0ff231b")
 	)
 	(wire
 		(pts
-			(xy 158.75 73.66) (xy 158.75 85.09)
+			(xy 153.67 87.63) (xy 153.67 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "295f4f86-e36f-4134-8fd0-bb2e12e57036")
+		(uuid "2faabad7-f995-4577-adc1-78c8de514a84")
 	)
 	(wire
 		(pts
-			(xy 156.21 90.17) (xy 168.91 90.17)
+			(xy 63.5 85.09) (xy 64.77 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "33be3dfd-1fbc-406b-bea8-42062f72991a")
+		(uuid "2ff2c6c5-4b10-4364-9217-34c68433dc27")
 	)
 	(wire
 		(pts
-			(xy 170.18 35.56) (xy 170.18 36.83)
+			(xy 165.1 82.55) (xy 176.53 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4366084e-09fd-4c1a-90ed-d2f4e1e5d805")
+		(uuid "34a0181d-9047-4a75-a584-86c7bd4a14ef")
+	)
+	(wire
+		(pts
+			(xy 132.08 87.63) (xy 132.08 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36fa70e8-0c3c-408e-b733-608af1f36496")
+	)
+	(wire
+		(pts
+			(xy 35.56 85.09) (xy 35.56 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4468c343-5de3-4e00-bc85-c7d7af4c1258")
 	)
 	(wire
 		(pts
@@ -1694,33 +1665,43 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 30.48) (xy 170.18 30.48)
+			(xy 71.12 38.1) (xy 71.12 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "499164b5-e2ce-4bb6-8659-ef80697e0f51")
+		(uuid "48404b98-ad62-4857-9626-c1154bd0266a")
 	)
 	(wire
 		(pts
-			(xy 34.29 77.47) (xy 41.91 77.47)
+			(xy 124.46 87.63) (xy 124.46 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "55ee8c77-8400-4988-95ca-372aa28e4ffc")
+		(uuid "5543a104-89c9-494e-a734-ea5ae9b3e910")
 	)
 	(wire
 		(pts
-			(xy 41.91 82.55) (xy 41.91 85.09)
+			(xy 153.67 30.48) (xy 154.94 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "61e00456-d0bd-46fb-b8f6-155ec5a8ae0d")
+		(uuid "61bc4d57-3229-43f6-8734-8cdc3b479142")
+	)
+	(wire
+		(pts
+			(xy 63.5 48.26) (xy 64.77 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62086be9-3824-446f-9f6a-dd5e7d763d6e")
 	)
 	(wire
 		(pts
@@ -1754,23 +1735,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 90.17) (xy 168.91 91.44)
+			(xy 152.4 82.55) (xy 154.94 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7a5b4926-bb5f-4411-a206-16251b49ca50")
-	)
-	(wire
-		(pts
-			(xy 67.31 82.55) (xy 80.01 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e3a6a02-9dac-4af3-ba65-324ff85b060c")
+		(uuid "6c35c487-7911-4a81-98ba-cb7958d142a2")
 	)
 	(wire
 		(pts
@@ -1784,7 +1755,27 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 43.18) (xy 68.58 43.18)
+			(xy 153.67 35.56) (xy 153.67 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82648dea-659f-4339-bf88-a57156427cd7")
+	)
+	(wire
+		(pts
+			(xy 64.77 85.09) (xy 64.77 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ca7f1c8-a8a1-4504-901f-b8c40635387a")
+	)
+	(wire
+		(pts
+			(xy 71.12 29.21) (xy 71.12 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1804,7 +1795,17 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 48.26) (xy 81.28 49.53)
+			(xy 71.12 74.93) (xy 71.12 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96f5b293-6d1b-4b48-9971-8dc883a428b4")
+	)
+	(wire
+		(pts
+			(xy 87.63 43.18) (xy 87.63 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1814,63 +1815,103 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 66.04) (xy 69.85 77.47)
+			(xy 87.63 80.01) (xy 87.63 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af2271ce-1937-472a-adee-1efaa3716b6d")
+		(uuid "9ddf1785-324f-4cfc-8a26-51bcaa5b9a74")
 	)
 	(wire
 		(pts
-			(xy 158.75 73.66) (xy 162.56 73.66)
+			(xy 63.5 43.18) (xy 66.04 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9c5e0a1-3e8e-4817-b536-61ada85c96a9")
+		(uuid "aa1ec2a1-a013-4e25-8ccd-6896f31fe847")
 	)
 	(wire
 		(pts
-			(xy 69.85 66.04) (xy 73.66 66.04)
+			(xy 124.46 82.55) (xy 132.08 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c49c4992-94b8-48d1-bf14-a3b36acae030")
+		(uuid "ae47cabd-6932-47c9-b9cd-ce3d01c05096")
 	)
 	(wire
 		(pts
-			(xy 158.75 35.56) (xy 170.18 35.56)
+			(xy 63.5 80.01) (xy 66.04 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf518fb6-8bd3-4e18-b3c6-f815d7cfb3fb")
+		(uuid "b74d40ef-da0f-4ddb-ac0b-764e5d1b1423")
 	)
 	(wire
 		(pts
-			(xy 123.19 90.17) (xy 123.19 93.98)
+			(xy 71.12 66.04) (xy 81.28 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d5de6b93-fa20-4d2f-9e0a-5439380ba20b")
+		(uuid "c13a0047-edec-4b9d-baa7-e63cf140172e")
 	)
 	(wire
 		(pts
-			(xy 130.81 90.17) (xy 130.81 92.71)
+			(xy 43.18 85.09) (xy 43.18 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db0333fd-f04e-4536-b514-bc748894e419")
+		(uuid "c3e00317-eff9-4e3c-b53f-8c9d23c421a9")
+	)
+	(wire
+		(pts
+			(xy 160.02 19.05) (xy 160.02 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf0ee041-9e30-47b9-ac9b-6ab7fd7abdb5")
+	)
+	(wire
+		(pts
+			(xy 160.02 69.85) (xy 160.02 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d56d4f94-91af-4f37-9aa3-75707fe1c92b")
+	)
+	(wire
+		(pts
+			(xy 176.53 30.48) (xy 176.53 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7d11ab8-dc91-4199-a9f5-5b7bc41bdc84")
+	)
+	(wire
+		(pts
+			(xy 64.77 48.26) (xy 64.77 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd57132-0ba1-473c-b944-c618f494b9c7")
 	)
 	(wire
 		(pts
@@ -1884,37 +1925,37 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 85.09) (xy 156.21 85.09)
+			(xy 163.83 69.85) (xy 160.02 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f0937d7d-7d4b-4163-a050-cb02facdbccc")
+		(uuid "ec2a1924-4596-4808-abf8-97f1d8903b7e")
 	)
 	(wire
 		(pts
-			(xy 71.12 31.75) (xy 71.12 43.18)
+			(xy 35.56 80.01) (xy 43.18 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f4eea7e3-4a9d-4829-a82c-0b9b3c5bd1c9")
+		(uuid "f3e2385e-78d1-4308-bdb6-47a9b4d8bf58")
 	)
 	(wire
 		(pts
-			(xy 69.85 77.47) (xy 67.31 77.47)
+			(xy 160.02 19.05) (xy 162.56 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fe0697dc-dcbc-44c2-8ebc-19b1d15d4a46")
+		(uuid "f47db524-550b-48cb-b7cf-ec21403c3f2e")
 	)
 	(hierarchical_label "LeftTurnSignal"
 		(shape input)
-		(at 162.56 73.66 0)
+		(at 163.83 69.85 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1925,7 +1966,7 @@
 	)
 	(hierarchical_label "RightTurnSignal"
 		(shape input)
-		(at 73.66 66.04 0)
+		(at 81.28 66.04 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1936,7 +1977,7 @@
 	)
 	(hierarchical_label "BattRelay"
 		(shape input)
-		(at 170.18 30.48 0)
+		(at 162.56 19.05 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1947,7 +1988,7 @@
 	)
 	(hierarchical_label "ExtraRelay"
 		(shape input)
-		(at 74.93 31.75 0)
+		(at 81.28 29.21 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1957,34 +1998,99 @@
 		(uuid "c105ff20-2757-40fb-8200-a935dada73ac")
 	)
 	(symbol
-		(lib_name "2-1445057-2_1")
-		(lib_id "2-1445057-2:2-1445057-2")
-		(at 115.57 87.63 180)
+		(lib_id "power:GND")
+		(at 87.63 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "04e931a5-31d9-40c9-b8c3-ede7f2a779a6")
-		(property "Reference" "J9"
-			(at 114.3 77.47 0)
+		(uuid "0305453d-0a67-45f4-9fc3-21064eedb2e7")
+		(property "Reference" "#PWR021"
+			(at 87.63 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 87.63 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "2-1445057-2"
-			(at 114.3 80.01 0)
+		(property "Footprint" ""
+			(at 87.63 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 87.63 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6679c61-587d-42b8-a5b8-35d9ce7e63d5")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2N2222A:2N2222A")
+		(at 160.02 80.01 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0671d34b-1b82-43ed-8b7e-34c2c785e51a")
+		(property "Reference" "Q3"
+			(at 160.02 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "2-1445057-2:TE_2-1445057-2"
-			(at 115.57 87.63 0)
+		(property "Value" "2N2222A"
+			(at 160.02 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "2N2222A:TO92254P470H750-3"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,7 +2100,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 87.63 0)
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,7 +2109,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 87.63 0)
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2011,18 +2117,8 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED_DATE" ""
-			(at 115.57 87.63 0)
+		(property "MF" "Diotec Semiconductor"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2031,8 +2127,8 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE_RATING" "250VAC"
-			(at 115.57 87.63 0)
+		(property "SNAPEDA_PACKAGE_ID" "121774"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2041,28 +2137,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Micro MATE-N-LOK Series,3mm Pitch 2 Way Right Angle PCB Header,Solder Term,5A | TE Connectivity 2-1445057-2"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 115.57 87.63 0)
+		(property "Package" "TO-92 Diotec"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +2148,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 115.57 87.63 0)
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,8 +2157,8 @@
 				(hide yes)
 			)
 		)
-		(property "COMPLIANCE" "Lead free/RoHS compliant"
-			(at 115.57 87.63 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2091,8 +2167,8 @@
 				(hide yes)
 			)
 		)
-		(property "POS" "2"
-			(at 115.57 87.63 0)
+		(property "STANDARD" "IPC 7351B"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2101,8 +2177,8 @@
 				(hide yes)
 			)
 		)
-		(property "TE_PN" "2-1445057-2"
-			(at 115.57 87.63 0)
+		(property "PARTREV" "N/A"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2111,8 +2187,8 @@
 				(hide yes)
 			)
 		)
-		(property "LIBRARY_REF" "2-1445057-2.lbr"
-			(at 115.57 87.63 0)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2121,8 +2197,8 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 115.57 87.63 0)
+		(property "MP" "2N2222A"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2131,8 +2207,8 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 115.57 87.63 0)
+		(property "Description_1" "BJT, TO-92, 40V, 600mA, NPN, 0.625W, 150°C"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2141,158 +2217,8 @@
 				(hide yes)
 			)
 		)
-		(property "FOOTPRINT" "TE_2-1445057-2"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "PCB, Surface Mount,Right angle"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SERIES" "-"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" "-"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REV_DATE" "20JUN2017"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "TE Connectivity"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Comment" "2-1445057-2"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "TE Connectivity"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" "C3"
-			(at 115.57 87.63 0)
+		(property "MANUFACTURER" "Diotec Semiconductor"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2302,7 +2228,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 115.57 87.63 0)
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2311,38 +2237,8 @@
 				(hide yes)
 			)
 		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "2-1445057-2"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3mm"
-			(at 115.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REV_NOTE" ""
-			(at 115.57 87.63 0)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.5 mm"
+			(at 160.02 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2352,31 +2248,35 @@
 			)
 		)
 		(pin "1"
-			(uuid "7b530c4a-47ac-43eb-886c-b5c3c4c90153")
+			(uuid "61c254a7-0312-4092-a970-7bd182fd5bad")
+		)
+		(pin "3"
+			(uuid "7cc0e889-6cc1-45e8-9bd8-832903295691")
 		)
 		(pin "2"
-			(uuid "cad13596-3350-4c68-af79-83ff7828db81")
+			(uuid "d279b722-f556-4c7f-85e5-74218e60b9f2")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "J9")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 123.19 93.98 0)
+		(lib_id "power:+5V")
+		(at 153.67 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1a7a6c44-ccea-4a65-bb81-78176fb763cd")
-		(property "Reference" "#PWR060"
-			(at 123.19 100.33 0)
+		(fields_autoplaced yes)
+		(uuid "152c6478-4c41-4f1f-9723-c0abe03a9fc1")
+		(property "Reference" "#PWR059"
+			(at 153.67 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2384,8 +2284,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDp"
-			(at 123.19 99.06 0)
+		(property "Value" "+5V"
+			(at 153.67 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2393,7 +2293,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 93.98 0)
+			(at 153.67 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2402,7 +2302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 93.98 0)
+			(at 153.67 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2410,8 +2310,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 93.98 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 153.67 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2420,7 +2320,73 @@
 			)
 		)
 		(pin "1"
-			(uuid "700b1b43-5f96-4faa-921d-bc0e097ff7ef")
+			(uuid "217244a2-2b06-44d6-9fae-1c152da84a28")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 176.53 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1690e8a6-e905-4009-8b84-7189eb00ad6c")
+		(property "Reference" "#PWR060"
+			(at 176.53 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 176.53 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c4de217f-b414-4ed5-be4a-c86557f8ddec")
 		)
 		(instances
 			(project "Main-Board-V2"
@@ -2432,43 +2398,43 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 168.91 91.44 0)
+		(lib_id "2N2222A:2N2222A")
+		(at 160.02 27.94 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2f5a62bc-e34d-4a70-8b20-d34f549c27c2")
-		(property "Reference" "#PWR064"
-			(at 168.91 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 168.91 96.52 0)
+		(uuid "21276214-0463-4a38-a445-5bf2f52b561a")
+		(property "Reference" "Q4"
+			(at 160.02 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.91 91.44 0)
+		(property "Value" "2N2222A"
+			(at 160.02 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Footprint" "2N2222A:TO92254P470H750-3"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 91.44 0)
+			(at 160.02 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2476,22 +2442,360 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 91.44 0)
+		(property "Description" ""
+			(at 160.02 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diotec Semiconductor"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PACKAGE_ID" "121774"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "TO-92 Diotec"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "N/A"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "2N2222A"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "BJT, TO-92, 40V, 600mA, NPN, 0.625W, 150°C"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diotec Semiconductor"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.5 mm"
+			(at 160.02 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "d7307e5b-4bbc-4359-85f9-6a757f8ae86d")
+			(uuid "3d65087a-f823-434d-9902-9bd5fe2baba1")
+		)
+		(pin "3"
+			(uuid "a4975052-2eab-4a3f-881b-ff6f73dbb09d")
+		)
+		(pin "2"
+			(uuid "fe35c82d-fa89-452d-a188-44b231f04728")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "#PWR064")
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2N2222A:2N2222A")
+		(at 71.12 40.64 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b40761b-3ead-466d-9b46-da1eee6b5a0a")
+		(property "Reference" "Q1"
+			(at 71.12 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2N2222A"
+			(at 71.12 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "2N2222A:TO92254P470H750-3"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diotec Semiconductor"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PACKAGE_ID" "121774"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "TO-92 Diotec"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "N/A"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "2N2222A"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "BJT, TO-92, 40V, 600mA, NPN, 0.625W, 150°C"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diotec Semiconductor"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.5 mm"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d0f7e1ef-ec11-40f2-8a9f-9c60478fd769")
+		)
+		(pin "3"
+			(uuid "171316bd-7660-451d-8347-83b834fc77f6")
+		)
+		(pin "2"
+			(uuid "d50bf82b-1795-4856-a61a-a9a341205feb")
+		)
+		(instances
+			(project ""
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -2564,417 +2868,8 @@
 		)
 	)
 	(symbol
-		(lib_id "2-1445057-2:2-1445057-2")
-		(at 26.67 80.01 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31a5f395-c48d-4142-b1bc-158ced7a0ccf")
-		(property "Reference" "J8"
-			(at 25.4 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2-1445057-2"
-			(at 25.4 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "2-1445057-2:TE_2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED_DATE" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING" "250VAC"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Micro MATE-N-LOK Series,3mm Pitch 2 Way Right Angle PCB Header,Solder Term,5A | TE Connectivity 2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPLIANCE" "Lead free/RoHS compliant"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "POS" "2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TE_PN" "2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" "2-1445057-2.lbr"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" "TE_2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "PCB, Surface Mount,Right angle"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SERIES" "-"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" "-"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REV_DATE" "20JUN2017"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "TE Connectivity"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Comment" "2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "TE Connectivity"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" "C3"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "2-1445057-2"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3mm"
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REV_NOTE" ""
-			(at 26.67 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "38402fe9-927a-4ad3-b910-fe26b4825ca6")
-		)
-		(pin "2"
-			(uuid "46a37790-f000-4a0d-928b-fd4d01329603")
-		)
-		(instances
-			(project "Main-Board-V2"
-				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "J107F1AS123VDC.36:J107F1AS123VDC.36")
-		(at 55.88 45.72 0)
+		(lib_id "PRE29-5V-S-450-1A-E:PRE29-5V-S-450-1A-E")
+		(at 53.34 45.72 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2982,9 +2877,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3720dc9a-c2c4-4431-be98-ccbe3e9563c5")
-		(property "Reference" "K3"
-			(at 55.88 35.56 0)
+		(uuid "342f0c92-4d7f-4859-8ab6-87e37973ae9e")
+		(property "Reference" "K2"
+			(at 53.34 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2992,15 +2887,15 @@
 			)
 		)
 		(property "Value" "J107F1AS123VDC.36"
-			(at 55.88 38.1 0)
+			(at 53.34 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "J107F1AS123VDC.36:RELAY_J107F1AS123VDC.36"
-			(at 55.88 45.72 0)
+		(property "Footprint" "PRE29-5V-S-450-1A-E:RELAY_PRE29-5V-S-450-1A-E"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,7 +2905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 45.72 0)
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3019,7 +2914,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 45.72 0)
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3028,7 +2923,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
-			(at 55.88 45.72 0)
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3037,8 +2932,8 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=snap"
-			(at 55.88 45.72 0)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=snap"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3047,8 +2942,8 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "15.29mm"
-			(at 55.88 45.72 0)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "16 mm"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,7 +2953,7 @@
 			)
 		)
 		(property "CREATOR" "DIZAR"
-			(at 55.88 45.72 0)
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3067,8 +2962,8 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 55.88 45.72 0)
+		(property "Package" "Package"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3077,8 +2972,8 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=eda"
-			(at 55.88 45.72 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=eda"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3088,7 +2983,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 55.88 45.72 0)
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3097,8 +2992,8 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "B"
-			(at 55.88 45.72 0)
+		(property "PARTREV" "1.0"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3108,7 +3003,7 @@
 			)
 		)
 		(property "VERIFIER" ""
-			(at 55.88 45.72 0)
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3117,8 +3012,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "CIT Relay and Switch"
-			(at 55.88 45.72 0)
+		(property "MF" "CUI DEVICES"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3127,8 +3022,8 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "J107F1AS123VDC.36"
-			(at 55.88 45.72 0)
+		(property "MP" "PRE29-5V-S-450-1A-E"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,8 +3032,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 3VDC Coil Through Hole"
-			(at 55.88 45.72 0)
+		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3147,8 +3042,8 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "CIT Relay and Switch"
-			(at 55.88 45.72 0)
+		(property "MANUFACTURER" "CUI DEVICES"
+			(at 53.34 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3157,22 +3052,108 @@
 				(hide yes)
 			)
 		)
-		(pin "COM"
-			(uuid "502173e8-7d72-4918-becb-5c54e6891cab")
+		(property "Price" "None"
+			(at 53.34 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "COIL1"
-			(uuid "0e5152ee-a1b0-4ac8-b443-613091f21c3a")
+		(property "Availability" "In Stock"
+			(at 53.34 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "COIL2"
-			(uuid "7f987a48-14c3-4e3d-a410-8ed8bf27e28f")
+		(pin "2"
+			(uuid "169a6104-6ce5-4be0-87e6-2e18f232cd05")
 		)
-		(pin "NO"
-			(uuid "71fc16cd-17dc-4c9a-908a-9a9724961507")
+		(pin "1"
+			(uuid "283d7030-cbda-4b58-87b8-94cd022ff50f")
+		)
+		(pin "3"
+			(uuid "6899efba-7b1a-46f9-8d89-d584fdae7b08")
+		)
+		(pin "4"
+			(uuid "92110435-77a0-421e-b326-f003afdc2b72")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "K3")
+					(reference "K2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 64.77 90.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "372de684-44f5-49f8-8875-b82d0cf44d43")
+		(property "Reference" "#PWR020"
+			(at 64.77 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 64.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 64.77 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aebba421-1e5c-4584-ac8b-2616abc64385")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -3591,16 +3572,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 170.18 36.83 0)
+		(at 176.53 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "416696b5-1044-4995-9368-b52f67952e57")
-		(property "Reference" "#PWR062"
-			(at 170.18 43.18 0)
+		(uuid "4f8a6b06-da45-421c-b242-fe6d021c2224")
+		(property "Reference" "#PWR058"
+			(at 176.53 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3609,7 +3590,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 170.18 41.91 0)
+			(at 176.53 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3617,7 +3598,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 36.83 0)
+			(at 176.53 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3626,7 +3607,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 36.83 0)
+			(at 176.53 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3635,7 +3616,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 36.83 0)
+			(at 176.53 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3644,72 +3625,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3e6c1fd4-6b12-4b0b-966b-d1f6a3ea15ec")
-		)
-		(instances
-			(project ""
-				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 34.29 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "67991ed7-6255-4722-8177-6e8104f2abef")
-		(property "Reference" "#PWR058"
-			(at 34.29 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDp"
-			(at 34.29 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 34.29 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "337bc059-e863-4888-b5a8-b5d9e714002c")
+			(uuid "d1f87ee8-4895-4f67-963b-7690878cfe75")
 		)
 		(instances
 			(project "Main-Board-V2"
@@ -3721,17 +3637,1080 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 41.91 85.09 180)
+		(lib_id "2-1445057-2:2-1445057-2")
+		(at 27.94 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6bb213b6-706e-480c-aa0b-474bc74e3eb5")
-		(property "Reference" "#PWR059"
-			(at 41.91 81.28 0)
+		(uuid "568718af-7a2e-4451-9464-afde2d2b175b")
+		(property "Reference" "J8"
+			(at 26.67 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2-1445057-2"
+			(at 26.67 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "2-1445057-2:TE_2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED_DATE" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING" "250VAC"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Micro MATE-N-LOK Series,3mm Pitch 2 Way Right Angle PCB Header,Solder Term,5A | TE Connectivity 2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_PATH" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SIGNAL_INTEGRITY" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPLIANCE" "Lead free/RoHS compliant"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "POS" "2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "TE_PN" "2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_REF" "2-1445057-2.lbr"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT" "TE_2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB, Surface Mount,Right angle"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SERIES" "-"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "CURRENT_RATING" "-"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESIGNATOR" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_PATH" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REV_DATE" "20JUN2017"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SPICE_MODEL" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TE Connectivity"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Comment" "2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" "C3"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_REFERENCE" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "2-1445057-2"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PITCH" "3mm"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REV_NOTE" ""
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9d3f4e4-5bc5-46c1-a1e9-10ad3fea0739")
+		)
+		(pin "2"
+			(uuid "8dba3238-58ec-4fd6-9f69-2a9cc822fe58")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2N2222A:2N2222A")
+		(at 71.12 77.47 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "631a678b-e5ee-4960-ada9-058e3d8f26e8")
+		(property "Reference" "Q2"
+			(at 71.12 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2N2222A"
+			(at 71.12 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "2N2222A:TO92254P470H750-3"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Diotec Semiconductor"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PACKAGE_ID" "121774"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "TO-92 Diotec"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "N/A"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "2N2222A"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "BJT, TO-92, 40V, 600mA, NPN, 0.625W, 150°C"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diotec Semiconductor"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.5 mm"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e23244fb-bcec-481b-83e8-33b23167b8e6")
+		)
+		(pin "3"
+			(uuid "30ad258a-9ba3-4019-8671-387282504837")
+		)
+		(pin "2"
+			(uuid "e8d13388-2a4e-4b05-bbef-8d4cd62aa249")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PRE29-5V-S-450-1A-E:PRE29-5V-S-450-1A-E")
+		(at 142.24 85.09 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6628cc6d-708c-4a91-8ea5-4d89b330f691")
+		(property "Reference" "K3"
+			(at 142.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "J107F1AS123VDC.36"
+			(at 142.24 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PRE29-5V-S-450-1A-E:RELAY_PRE29-5V-S-450-1A-E"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=snap"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "16 mm"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATOR" "DIZAR"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Package"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=eda"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.0"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "VERIFIER" ""
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "CUI DEVICES"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "PRE29-5V-S-450-1A-E"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "CUI DEVICES"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "970d5bae-a81a-46fc-bdc2-905ec5bb9e47")
+		)
+		(pin "1"
+			(uuid "9c04b388-4e81-42c4-a774-588e66a1c45b")
+		)
+		(pin "3"
+			(uuid "9f22963b-55e3-458e-a91d-c3bf6df6ca25")
+		)
+		(pin "4"
+			(uuid "9ffe2f43-2651-4554-92c1-050f21f6754c")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "K3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PRE29-5V-S-450-1A-E:PRE29-5V-S-450-1A-E")
+		(at 143.51 33.02 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "716a757b-6bde-40ea-a95d-90de355c1ea1")
+		(property "Reference" "K4"
+			(at 143.51 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "J107F1AS123VDC.36"
+			(at 143.51 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PRE29-5V-S-450-1A-E:RELAY_PRE29-5V-S-450-1A-E"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=snap"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "16 mm"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATOR" "DIZAR"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Package"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=eda"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.0"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "VERIFIER" ""
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "CUI DEVICES"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "PRE29-5V-S-450-1A-E"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "CUI DEVICES"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 143.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5ed85e82-8326-446f-a113-81e8e75d7fb0")
+		)
+		(pin "1"
+			(uuid "b45e20f3-9db4-44b5-be5c-114eb8d27004")
+		)
+		(pin "3"
+			(uuid "34f3e16f-9b55-4b82-be79-81a6832d384e")
+		)
+		(pin "4"
+			(uuid "217624d0-e009-42fd-b09f-c2429e807881")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "K4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 132.08 90.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72035c7e-54a8-4d9d-9372-3d21e87d7bef")
+		(property "Reference" "#PWR055"
+			(at 132.08 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3740,7 +4719,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 41.91 90.17 0)
+			(at 132.08 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3748,7 +4727,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 85.09 0)
+			(at 132.08 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3757,7 +4736,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 85.09 0)
+			(at 132.08 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3766,7 +4745,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 41.91 85.09 0)
+			(at 132.08 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3775,29 +4754,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "83f2839f-299e-43ba-9a69-1e7bfbead625")
+			(uuid "fd81599c-8e5e-4838-b51d-4d4f180523c8")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "#PWR059")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 81.28 49.53 0)
+		(lib_id "power:+12V")
+		(at 43.18 87.63 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7e148424-811b-408c-801d-b4e31cc6d7d9")
-		(property "Reference" "#PWR057"
-			(at 81.28 55.88 0)
+		(uuid "7ba20e6e-b6cd-4b9c-9e62-3f314c3f4b0f")
+		(property "Reference" "#PWR018"
+			(at 43.18 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3805,8 +4784,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 81.28 54.61 0)
+		(property "Value" "+12V"
+			(at 43.18 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3814,7 +4793,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 49.53 0)
+			(at 43.18 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3823,7 +4802,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 49.53 0)
+			(at 43.18 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 43.18 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73c946b7-b5ca-48a0-8459-aeba25a1e75f")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 87.63 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e148424-811b-408c-801d-b4e31cc6d7d9")
+		(property "Reference" "#PWR057"
+			(at 87.63 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 87.63 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 87.63 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3832,7 +4877,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 49.53 0)
+			(at 87.63 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3853,83 +4898,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 130.81 92.71 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "834fd207-9050-4b9b-9772-6a5b5e72c21a")
-		(property "Reference" "#PWR061"
-			(at 130.81 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 130.81 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 130.81 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe7fe817-af86-4478-a545-9d1449d90459")
-		)
-		(instances
-			(project "Main-Board-V2"
-				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "#PWR061")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 80.01 83.82 0)
+		(at 35.56 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97c40292-422c-4b71-9ca2-1b17da06b3ef")
-		(property "Reference" "#PWR063"
-			(at 80.01 90.17 0)
+		(uuid "83259706-8f22-4e47-b745-2c77cbcb4feb")
+		(property "Reference" "#PWR012"
+			(at 35.56 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3937,8 +4915,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 80.01 88.9 0)
+		(property "Value" "GNDp"
+			(at 35.56 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3946,7 +4924,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 83.82 0)
+			(at 35.56 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3955,7 +4933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 83.82 0)
+			(at 35.56 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3964,7 +4942,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 83.82 0)
+			(at 35.56 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,56 +4951,120 @@
 			)
 		)
 		(pin "1"
-			(uuid "ebe61fe0-82cd-4d7f-b879-085a99a7954d")
+			(uuid "1edced30-86d1-4938-a698-803496be0ebe")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "#PWR063")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "J107F1AS123VDC.36:J107F1AS123VDC.36")
-		(at 143.51 87.63 0)
-		(mirror y)
+		(lib_id "power:+5V")
+		(at 64.77 53.34 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a4057811-a88e-4599-b227-e900af3d8c03")
-		(property "Reference" "K2"
-			(at 143.51 77.47 0)
+		(uuid "a5adf107-6656-464a-8b78-6a15dfe7ed15")
+		(property "Reference" "#PWR011"
+			(at 64.77 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 64.77 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "J107F1AS123VDC.36"
-			(at 143.51 80.01 0)
+		(property "Footprint" ""
+			(at 64.77 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 64.77 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "857afbce-b7c0-4deb-8e61-1a8cb56451f2")
+		)
+		(instances
+			(project ""
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 124.46 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c01e4ea2-360d-4a1a-87fb-e7c452601931")
+		(property "Reference" "#PWR054"
+			(at 124.46 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDp"
+			(at 124.46 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "J107F1AS123VDC.36:RELAY_J107F1AS123VDC.36"
-			(at 143.51 87.63 0)
+		(property "Footprint" ""
+			(at 124.46 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 87.63 0)
+			(at 124.46 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4030,8 +5072,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 143.51 87.63 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4039,152 +5081,13 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=snap"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "15.29mm"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "CREATOR" "DIZAR"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=eda"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VERIFIER" ""
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "CIT Relay and Switch"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "J107F1AS123VDC.36"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 3VDC Coil Through Hole"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "CIT Relay and Switch"
-			(at 143.51 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "COM"
-			(uuid "a0cd9557-2330-4491-97c8-9d4863082eac")
-		)
-		(pin "COIL1"
-			(uuid "f96fc8bd-9f7d-44ba-9aa9-4618e6f91e0b")
-		)
-		(pin "COIL2"
-			(uuid "4810d43d-b820-4f7f-b4af-74a33b075941")
-		)
-		(pin "NO"
-			(uuid "889d4871-8684-4929-9e6a-697a38c52b35")
+		(pin "1"
+			(uuid "d8cbb6be-049f-4de8-9869-1a9f0d60e474")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "K2")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -4600,34 +5503,99 @@
 		)
 	)
 	(symbol
-		(lib_id "J107F1AS123VDC.36:J107F1AS123VDC.36")
-		(at 54.61 80.01 0)
-		(mirror y)
+		(lib_id "power:+5V")
+		(at 153.67 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dee34df3-4877-4c3b-b447-2d4cfc8b55f6")
-		(property "Reference" "K1"
-			(at 54.61 69.85 0)
+		(uuid "d309ff9c-9b23-41c2-9b2c-a939b64b1ffc")
+		(property "Reference" "#PWR056"
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 153.67 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "J107F1AS123VDC.36"
-			(at 54.61 72.39 0)
+		(property "Footprint" ""
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f9da456-3df9-431a-bc97-99b91a11c452")
+		)
+		(instances
+			(project "Main-Board-V2"
+				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2-1445057-2:2-1445057-2")
+		(at 116.84 85.09 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d921d737-65f9-42e7-b057-b5b9bb245686")
+		(property "Reference" "J9"
+			(at 115.57 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "J107F1AS123VDC.36:RELAY_J107F1AS123VDC.36"
-			(at 54.61 80.01 0)
+		(property "Value" "2-1445057-2"
+			(at 115.57 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "2-1445057-2:TE_2-1445057-2"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4637,7 +5605,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 80.01 0)
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4646,7 +5614,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 80.01 0)
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4654,18 +5622,8 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
-			(at 54.61 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=snap"
-			(at 54.61 80.01 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4674,8 +5632,8 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "15.29mm"
-			(at 54.61 80.01 0)
+		(property "PUBLISHED_DATE" ""
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4684,8 +5642,8 @@
 				(hide yes)
 			)
 		)
-		(property "CREATOR" "DIZAR"
-			(at 54.61 80.01 0)
+		(property "VOLTAGE_RATING" "250VAC"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4694,8 +5652,8 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 54.61 80.01 0)
+		(property "Description_1" "Micro MATE-N-LOK Series,3mm Pitch 2 Way Right Angle PCB Header,Solder Term,5A | TE Connectivity 2-1445057-2"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4704,8 +5662,68 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=eda"
-			(at 54.61 80.01 0)
+		(property "LIBRARY_PATH" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SIGNAL_INTEGRITY" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPLIANCE" "Lead free/RoHS compliant"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "POS" "2"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "TE_PN" "2-1445057-2"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_REF" "2-1445057-2.lbr"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4715,7 +5733,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 54.61 80.01 0)
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4724,8 +5742,8 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "B"
-			(at 54.61 80.01 0)
+		(property "Package" "None"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4734,8 +5752,8 @@
 				(hide yes)
 			)
 		)
-		(property "VERIFIER" ""
-			(at 54.61 80.01 0)
+		(property "FOOTPRINT" "TE_2-1445057-2"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4744,8 +5762,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "CIT Relay and Switch"
-			(at 54.61 80.01 0)
+		(property "PART_DESCRIPTION" "CONN HEADER 3MM 2POS R/A TIN SMD"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4754,8 +5772,8 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "J107F1AS123VDC.36"
-			(at 54.61 80.01 0)
+		(property "PUBLISHER" ""
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4764,8 +5782,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 3VDC Coil Through Hole"
-			(at 54.61 80.01 0)
+		(property "PACKAGE" "PCB, Surface Mount,Right angle"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4774,8 +5792,8 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "CIT Relay and Switch"
-			(at 54.61 80.01 0)
+		(property "SERIES" "-"
+			(at 116.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4784,22 +5802,176 @@
 				(hide yes)
 			)
 		)
-		(pin "COM"
-			(uuid "335a8e7a-2789-4b56-bc34-203c4a7ef8ed")
+		(property "CURRENT_RATING" "-"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "COIL1"
-			(uuid "40aa050c-332c-4f80-a60b-aac65d4c0aad")
+		(property "DESIGNATOR" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "COIL2"
-			(uuid "10d4bf7e-f7fc-4784-8665-6ded280dc92d")
+		(property "FOOTPRINT_PATH" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "NO"
-			(uuid "c0849689-b322-454b-b1b7-bb328326c9c4")
+		(property "DATASHEET" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1445057%7FC3%7Fpdf%7FEnglish%7FENG_CD_1445057_C3.pdf%7F2-1445057-2"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2-1445057-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REV_DATE" "20JUN2017"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SPICE_MODEL" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TE Connectivity"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Comment" "2-1445057-2"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" "C3"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_REFERENCE" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "2-1445057-2"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PITCH" "3mm"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REV_NOTE" ""
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b7e837f-d227-47e5-8e46-0010bd5cc74e")
+		)
+		(pin "2"
+			(uuid "c649c97c-8a7d-4ca5-b8f5-07714363100e")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "K1")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -4871,8 +6043,8 @@
 		)
 	)
 	(symbol
-		(lib_id "J107F1AS123VDC.36:J107F1AS123VDC.36")
-		(at 146.05 33.02 0)
+		(lib_id "PRE29-5V-S-450-1A-E:PRE29-5V-S-450-1A-E")
+		(at 53.34 82.55 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4880,9 +6052,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ef8c5dc4-d2be-4d70-a983-78c17705258c")
-		(property "Reference" "K4"
-			(at 146.05 22.86 0)
+		(uuid "fcb689d8-0115-4813-98f0-52cf67e3f5b3")
+		(property "Reference" "K1"
+			(at 53.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4890,15 +6062,15 @@
 			)
 		)
 		(property "Value" "J107F1AS123VDC.36"
-			(at 146.05 25.4 0)
+			(at 53.34 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "J107F1AS123VDC.36:RELAY_J107F1AS123VDC.36"
-			(at 146.05 33.02 0)
+		(property "Footprint" "PRE29-5V-S-450-1A-E:RELAY_PRE29-5V-S-450-1A-E"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4908,7 +6080,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 33.02 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4917,7 +6089,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 33.02 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4926,7 +6098,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "2449-J107F1AS123VDC.36-ND"
-			(at 146.05 33.02 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4935,8 +6107,8 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=snap"
-			(at 146.05 33.02 0)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=snap"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4945,8 +6117,8 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "15.29mm"
-			(at 146.05 33.02 0)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "16 mm"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4956,7 +6128,7 @@
 			)
 		)
 		(property "CREATOR" "DIZAR"
-			(at 146.05 33.02 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4965,8 +6137,8 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 146.05 33.02 0)
+		(property "Package" "Package"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,8 +6147,8 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/J107F1AS123VDC.36/CIT+Relay+%2526+Switch/view-part/?ref=eda"
-			(at 146.05 33.02 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/PRE29-5V-S-450-1A-E/Same+Sky/view-part/?ref=eda"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4986,7 +6158,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.05 33.02 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4995,8 +6167,8 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "B"
-			(at 146.05 33.02 0)
+		(property "PARTREV" "1.0"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5006,7 +6178,7 @@
 			)
 		)
 		(property "VERIFIER" ""
-			(at 146.05 33.02 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5015,8 +6187,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "CIT Relay and Switch"
-			(at 146.05 33.02 0)
+		(property "MF" "CUI DEVICES"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5025,8 +6197,8 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "J107F1AS123VDC.36"
-			(at 146.05 33.02 0)
+		(property "MP" "PRE29-5V-S-450-1A-E"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5035,8 +6207,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 3VDC Coil Through Hole"
-			(at 146.05 33.02 0)
+		(property "Description_1" "General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5045,8 +6217,8 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "CIT Relay and Switch"
-			(at 146.05 33.02 0)
+		(property "MANUFACTURER" "CUI DEVICES"
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5055,22 +6227,42 @@
 				(hide yes)
 			)
 		)
-		(pin "COM"
-			(uuid "2e8ae57a-be9f-4a19-9129-f6e4898fa568")
+		(property "Price" "None"
+			(at 53.34 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "COIL1"
-			(uuid "ba3dcbb3-c0f8-4709-86fe-700d9ab7dd3b")
+		(property "Availability" "In Stock"
+			(at 53.34 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "COIL2"
-			(uuid "bafe862b-190b-418d-a378-62598abdd24a")
+		(pin "2"
+			(uuid "3208a5bd-97b4-4c6b-89ee-41e6954ff1f5")
 		)
-		(pin "NO"
-			(uuid "fe289fa2-03d2-425f-bc2c-261f3dc7b077")
+		(pin "1"
+			(uuid "b2a30b32-06ba-4c37-be81-e630b4eb8af4")
+		)
+		(pin "3"
+			(uuid "868704c7-97b8-4c75-8336-47855e7ccc11")
+		)
+		(pin "4"
+			(uuid "12954917-6704-40e4-83ed-d49ce92aee8c")
 		)
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/28e65c4e-456b-4c98-96d9-cb6b5559e465"
-					(reference "K4")
+					(reference "K1")
 					(unit 1)
 				)
 			)
