@@ -19,4 +19,7 @@
   (lib (name "BCS-114-L-S-PE-BE")(type "KiCad")(uri "${KIPRJMOD}/components/BCS/BCS-114-L-S-PE-BE.kicad_sym")(options "")(descr ""))
   (lib (name "2N2222A")(type "KiCad")(uri "${KIPRJMOD}/components/2N2222A/2N2222A.kicad_sym")(options "")(descr ""))
   (lib (name "PRE29-5V-S-450-1A-E")(type "KiCad")(uri "${KIPRJMOD}/components/PRE29-5V-S-450-1A-E/PRE29-5V-S-450-1A-E.kicad_sym")(options "")(descr ""))
+  (lib (name "770669-5")(type "KiCad")(uri "${KIPRJMOD}/components/770669-5/770669-5.kicad_sym")(options "")(descr ""))
+  (lib (name "776163-5")(type "KiCad")(uri "${KIPRJMOD}/components/776163-5/776163-5.kicad_sym")(options "")(descr ""))
+  (lib (name "DT15-2P")(type "KiCad")(uri "${KIPRJMOD}/components/DT15-2P/DT15-2P.kicad_sym")(options "")(descr ""))
 )
