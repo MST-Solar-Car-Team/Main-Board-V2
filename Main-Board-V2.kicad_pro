@@ -447,7 +447,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -457,6 +457,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -639,8 +640,12 @@
       "DigitalInputs"
     ],
     [
-      "28e65c4e-456b-4c98-96d9-cb6b5559e465",
+      "c65af505-ff8b-4c98-aae4-9f43bb96d9cc",
       "Relays"
+    ],
+    [
+      "c9905c66-d0e8-4e28-a853-c1370a33f8a3",
+      "Pedal"
     ]
   ],
   "text_variables": {}

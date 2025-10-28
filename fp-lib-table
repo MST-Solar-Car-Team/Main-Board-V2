@@ -22,4 +22,5 @@
   (lib (name "DT15-2P")(type "KiCad")(uri "${KIPRJMOD}/components/DT15-2P")(options "")(descr ""))
   (lib (name "PRE29-5V-S-450-1A-E")(type "KiCad")(uri "${KIPRJMOD}/components/PRE29-5V-S-450-1A-E")(options "")(descr ""))
   (lib (name "2N2222A")(type "KiCad")(uri "${KIPRJMOD}/components/2N2222A")(options "")(descr ""))
+  (lib (name "776163-5")(type "KiCad")(uri "${KIPRJMOD}/components/776163-5")(options "")(descr ""))
 )
