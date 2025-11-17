@@ -3204,7 +3204,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "09ff0abc-a1c3-43d4-bc06-3a62042f77f7")
 	)
@@ -3265,7 +3265,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "18925e91-f8b4-4b04-bd2a-d6b5b8b954b0")
 	)
@@ -3296,7 +3296,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "21daceaf-aa81-4269-892d-8b993b6383e6")
 	)
@@ -3337,7 +3337,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "2b690ca7-d845-4522-9129-5d18b3ada8f7")
 	)
@@ -3448,7 +3448,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "3e7a87c7-1959-46bf-a03b-6eab3c5d5961")
 	)
@@ -3552,7 +3552,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "52b8ca3f-859d-4e9a-8cdb-91a73309eb0c")
 	)
@@ -3583,7 +3583,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "56411cf8-81d7-41d3-a7e2-8d0ef19bf9df")
 	)
@@ -3654,7 +3654,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "60f08289-2a77-4dd0-bc6a-65964a57faa8")
 	)
@@ -3816,7 +3816,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "7d068f9c-7b5a-48d8-9888-6c1bdc950adc")
 	)
@@ -3970,7 +3970,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "a37a9d92-7a52-4e28-a570-e63c496a7bee")
 	)
@@ -4095,7 +4095,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "c3be3b27-d4e9-4e27-9d61-4ba30cb60b91")
 	)
@@ -4400,7 +4400,7 @@
 		(stroke
 			(width 0.254)
 			(type default)
-			(color 0 194 194 1)
+			(color 0 0 194 1)
 		)
 		(uuid "f6827bb4-b11a-4865-8079-d5566a0cd47e")
 	)
@@ -6047,7 +6047,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:Teensy40_Raised"
 			(at 193.04 66.04 0)
 			(effects
 				(font
