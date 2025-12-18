@@ -1565,7 +1565,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 38.1) (xy 95.25 38.1)
+			(xy 92.71 38.1) (xy 99.06 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1608,7 +1608,7 @@
 	)
 	(hierarchical_label "BattRelay"
 		(shape input)
-		(at 95.25 38.1 0)
+		(at 99.06 38.1 0)
 		(effects
 			(font
 				(size 2.54 2.54)
