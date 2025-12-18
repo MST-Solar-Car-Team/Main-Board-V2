@@ -615,20 +615,20 @@
       "Root"
     ],
     [
-      "82598d9f-7302-484e-880f-c9b73897b20c",
+      "2eeb5b34-c445-4914-b41b-f611e24c0c64",
       "Can"
     ],
     [
-      "6f947cd9-6d19-42c0-a2bd-2a6e56b819b4",
+      "3a4427d0-6eca-443c-adcd-54f8faf07b6a",
       "DigitalInputs"
     ],
     [
-      "c65af505-ff8b-4c98-aae4-9f43bb96d9cc",
-      "Relays"
+      "243aeeea-a5d5-45d5-af6a-501db9a04667",
+      "Pedal"
     ],
     [
-      "c9905c66-d0e8-4e28-a853-c1370a33f8a3",
-      "Pedal"
+      "21d63675-f3e4-4d8d-ac51-eab9a4aeae5e",
+      "Relays"
     ]
   ],
   "text_variables": {}
