@@ -54,34 +54,6 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "clearance|224731500|114850600|3040c5fd-8d3a-4c10-86ae-00b90969dfde|57437e15-87ce-4912-a116-1077e4abd7dc",
-          ""
-        ],
-        [
-          "clearance|225731500|114850600|c5f7c92a-0772-4ecf-9087-99c546174483|3040c5fd-8d3a-4c10-86ae-00b90969dfde",
-          ""
-        ],
-        [
-          "clearance|226731500|114850600|30ff0904-eea3-4389-a93b-f98f34cffb9e|c5f7c92a-0772-4ecf-9087-99c546174483",
-          ""
-        ],
-        [
-          "clearance|227731500|114850600|f4f51dce-ddb2-4c03-b993-d31568135fda|30ff0904-eea3-4389-a93b-f98f34cffb9e",
-          ""
-        ],
-        [
-          "clearance|228731500|114850600|88291ff3-ef7f-4719-9f9d-c98cfe0ea4e5|f4f51dce-ddb2-4c03-b993-d31568135fda",
-          ""
-        ],
-        [
-          "clearance|229731500|114850600|cef8f7a0-41f2-4b0c-8a05-535c30593d7f|88291ff3-ef7f-4719-9f9d-c98cfe0ea4e5",
-          ""
-        ],
-        [
-          "clearance|230731500|114850600|9c7d4b35-bd79-4187-86e5-fd68b2f9b703|cef8f7a0-41f2-4b0c-8a05-535c30593d7f",
-          ""
-        ],
-        [
           "silk_edge_clearance|143938500|130864000|15ddadde-40bd-43d9-8fef-14575e7ebd3f|f12e1a15-32e9-4fb6-a9c5-9f4ae87fce11",
           ""
         ],
