@@ -2091,7 +2091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cc15849-45d9-4519-9bb5-bc4e9e89d585")
-		(property "Reference" "R26"
+		(property "Reference" "R29"
 			(at 250.19 49.53 90)
 			(effects
 				(font
@@ -2107,7 +2107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 250.444 54.864 90)
 			(effects
 				(font
@@ -2143,7 +2143,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R26")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -2159,7 +2159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d0ab9d9-358a-4083-ab9b-1f3233ea084b")
-		(property "Reference" "R18"
+		(property "Reference" "R21"
 			(at 182.88 63.4999 0)
 			(effects
 				(font
@@ -2177,7 +2177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 181.356 65.024 90)
 			(effects
 				(font
@@ -2213,7 +2213,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R18")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -2229,7 +2229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34773342-9b7b-4b46-a74a-1c885544dcfc")
-		(property "Reference" "C4"
+		(property "Reference" "C7"
 			(at 260.35 62.2299 0)
 			(effects
 				(font
@@ -2283,7 +2283,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "C4")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -2299,7 +2299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35ae8a8e-2023-43d9-9c26-84369812cfd6")
-		(property "Reference" "R20"
+		(property "Reference" "R23"
 			(at 186.69 49.53 90)
 			(effects
 				(font
@@ -2315,7 +2315,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 186.944 54.864 90)
 			(effects
 				(font
@@ -2351,7 +2351,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R20")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -2367,7 +2367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a346ab5-861f-44f0-bc06-622139affbca")
-		(property "Reference" "R24"
+		(property "Reference" "R27"
 			(at 246.38 63.4999 0)
 			(effects
 				(font
@@ -2385,7 +2385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 242.824 64.516 90)
 			(effects
 				(font
@@ -2421,7 +2421,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R24")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -2437,7 +2437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cba17e8-df48-4bdb-bd4c-663d3907e9c0")
-		(property "Reference" "R22"
+		(property "Reference" "R25"
 			(at 195.58 46.9899 0)
 			(effects
 				(font
@@ -2455,7 +2455,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 194.056 48.514 90)
 			(effects
 				(font
@@ -2491,7 +2491,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R22")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -2507,7 +2507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f93a9ec-988e-4dbb-9888-d8e06cb5ac32")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR043"
 			(at 182.88 109.22 0)
 			(effects
 				(font
@@ -2558,7 +2558,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR037")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -2574,7 +2574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ef05145-83ac-423c-8b6d-da1fac4c22c7")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR047"
 			(at 236.22 50.8 0)
 			(effects
 				(font
@@ -2624,7 +2624,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR041")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -2640,7 +2640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71e1b5ce-c9d6-4e05-ac72-6f07d188a534")
-		(property "Reference" "R16"
+		(property "Reference" "R19"
 			(at 102.87 129.5399 0)
 			(effects
 				(font
@@ -2658,7 +2658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 101.346 131.064 90)
 			(effects
 				(font
@@ -2694,7 +2694,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R16")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -2710,7 +2710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c922395-c9c4-4cf1-87c4-2b3af8f37394")
-		(property "Reference" "U9"
+		(property "Reference" "U11"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -2852,7 +2852,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "U9")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -2868,7 +2868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83288de4-7888-44e3-be30-540c09786694")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR041"
 			(at 153.67 125.73 0)
 			(effects
 				(font
@@ -2919,7 +2919,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR034")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -2935,7 +2935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83f3ad5c-932a-42d8-9770-f8331d6709f2")
-		(property "Reference" "R21"
+		(property "Reference" "R24"
 			(at 194.31 114.2999 0)
 			(effects
 				(font
@@ -2953,7 +2953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 192.786 115.824 90)
 			(effects
 				(font
@@ -2989,7 +2989,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R21")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -3005,7 +3005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8826cd57-5d05-4d11-9709-7adb15fb8432")
-		(property "Reference" "R25"
+		(property "Reference" "R28"
 			(at 248.92 116.84 90)
 			(effects
 				(font
@@ -3021,7 +3021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 249.174 122.174 90)
 			(effects
 				(font
@@ -3057,7 +3057,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R25")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -3073,7 +3073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ba087a1-eb8c-4157-8828-447c769c2a71")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR038"
 			(at 55.88 142.24 0)
 			(effects
 				(font
@@ -3123,7 +3123,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR024")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -3139,7 +3139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d106ba7-8e3f-4c75-a615-93f12ed8a393")
-		(property "Reference" "U7"
+		(property "Reference" "U9"
 			(at 71.12 119.38 0)
 			(effects
 				(font
@@ -3288,7 +3288,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "U7")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -3304,7 +3304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9281cc86-7416-409c-b335-0902f8c90276")
-		(property "Reference" "R23"
+		(property "Reference" "R26"
 			(at 245.11 130.8099 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 241.554 131.826 90)
 			(effects
 				(font
@@ -3358,7 +3358,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R23")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -3374,7 +3374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a06353fa-ac88-496a-9a3a-e0d5b0d05d99")
-		(property "Reference" "C3"
+		(property "Reference" "C6"
 			(at 259.08 129.5399 0)
 			(effects
 				(font
@@ -3428,7 +3428,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "C3")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -3444,7 +3444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0c2525d-7f4b-4720-bef4-fc116eeba7aa")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR044"
 			(at 184.15 41.91 0)
 			(effects
 				(font
@@ -3495,7 +3495,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR038")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -3511,7 +3511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a14d87bd-201e-4e5f-865d-e477d8f77206")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR049"
 			(at 255.27 142.24 0)
 			(effects
 				(font
@@ -3561,7 +3561,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR050")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -3577,7 +3577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7b80f19-685c-4a20-9cde-f161a993150c")
-		(property "Reference" "U8"
+		(property "Reference" "U10"
 			(at 217.17 110.49 0)
 			(effects
 				(font
@@ -3719,7 +3719,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "U8")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -3735,7 +3735,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9fe8db5-baa4-46c6-a558-8997c4dacf61")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR046"
 			(at 234.95 142.24 0)
 			(effects
 				(font
@@ -3785,7 +3785,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR040")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -3801,7 +3801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac8a75f8-fff8-4c74-bdac-2be028a7e673")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR040"
 			(at 93.98 132.08 0)
 			(effects
 				(font
@@ -3851,7 +3851,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR032")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -3867,7 +3867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4fab20f-8613-47d1-8a72-3c67ae37a546")
-		(property "Reference" "R19"
+		(property "Reference" "R22"
 			(at 185.42 116.84 90)
 			(effects
 				(font
@@ -3883,7 +3883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 185.674 122.174 90)
 			(effects
 				(font
@@ -3919,7 +3919,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R19")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -3935,7 +3935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbf98677-a036-45fb-8640-b3eaaee77437")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR050"
 			(at 256.54 74.93 0)
 			(effects
 				(font
@@ -3985,7 +3985,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR057")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -4001,7 +4001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eab0235e-fddf-40b6-a5e6-c452d1097b7c")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR039"
 			(at 87.63 142.24 0)
 			(effects
 				(font
@@ -4051,7 +4051,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR031")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -4067,7 +4067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecaa1176-26c1-41b8-a234-d982009c75f8")
-		(property "Reference" "R15"
+		(property "Reference" "R18"
 			(at 46.99 120.65 90)
 			(effects
 				(font
@@ -4083,7 +4083,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 47.244 125.984 90)
 			(effects
 				(font
@@ -4119,7 +4119,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R15")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -4135,7 +4135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef4d125f-f44e-459d-b4de-6afccd2a8783")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR042"
 			(at 154.94 58.42 0)
 			(effects
 				(font
@@ -4186,7 +4186,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR035")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -4202,7 +4202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f95286fb-4bb7-4eac-9575-d0a59b671099")
-		(property "Reference" "R17"
+		(property "Reference" "R20"
 			(at 181.61 130.8099 0)
 			(effects
 				(font
@@ -4220,7 +4220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 180.086 132.334 90)
 			(effects
 				(font
@@ -4256,7 +4256,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "R17")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -4272,7 +4272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd43ce8e-e137-4e86-b8f8-6adfff6a7283")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR045"
 			(at 234.95 118.11 0)
 			(effects
 				(font
@@ -4322,7 +4322,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR039")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -4338,7 +4338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdbfdfc3-2234-45c0-9a52-e9284e3227c4")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR048"
 			(at 236.22 74.93 0)
 			(effects
 				(font
@@ -4388,7 +4388,7 @@
 		(instances
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/243aeeea-a5d5-45d5-af6a-501db9a04667"
-					(reference "#PWR049")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)

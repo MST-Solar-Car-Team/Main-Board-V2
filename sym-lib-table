@@ -22,4 +22,5 @@
   (lib (name "770669-5")(type "KiCad")(uri "${KIPRJMOD}/components/770669-5/770669-5.kicad_sym")(options "")(descr ""))
   (lib (name "776163-5")(type "KiCad")(uri "${KIPRJMOD}/components/776163-5/776163-5.kicad_sym")(options "")(descr ""))
   (lib (name "DT15-2P")(type "KiCad")(uri "${KIPRJMOD}/components/DT15-2P/DT15-2P.kicad_sym")(options "")(descr ""))
+  (lib (name "1-776231-4")(type "KiCad")(uri "${KIPRJMOD}/components/1-776231-4/1-776231-4.kicad_sym")(options "")(descr ""))
 )
