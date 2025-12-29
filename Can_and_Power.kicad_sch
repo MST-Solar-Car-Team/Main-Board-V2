@@ -1433,12 +1433,6 @@
 		(uuid "a8eb075b-c362-4336-a712-2c8c0e6fb898")
 	)
 	(junction
-		(at 67.31 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ced9eaf8-5c96-4b61-bced-dfa7b74c3c81")
-	)
-	(junction
 		(at 226.06 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1506,16 +1500,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 45.72) (xy 67.31 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18b00fcc-fed4-4c71-910e-21c16950a597")
-	)
-	(wire
-		(pts
 			(xy 220.98 110.49) (xy 220.98 114.3)
 		)
 		(stroke
@@ -1543,16 +1527,6 @@
 			(type default)
 		)
 		(uuid "234ed54d-76d6-48fb-98cc-884eb435fbee")
-	)
-	(wire
-		(pts
-			(xy 67.31 45.72) (xy 67.31 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2439416a-c5dc-4c08-8810-8968aa8b2dcb")
 	)
 	(wire
 		(pts
@@ -1676,7 +1650,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 41.91) (xy 67.31 45.72)
+			(xy 67.31 41.91) (xy 67.31 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2522,73 +2496,6 @@
 			(project "Main-Board-V2"
 				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/2eeb5b34-c445-4914-b41b-f611e24c0c64"
 					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 68.58 45.72 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2290d78d-ff10-4dcb-a54b-a3a5f030c088")
-		(property "Reference" "#FLG02"
-			(at 70.485 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 72.39 45.7199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 68.58 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 68.58 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 68.58 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70a3abd2-6980-4654-bb99-a60723b66e41")
-		)
-		(instances
-			(project "Main-Board-V2"
-				(path "/c01682a2-308a-4674-9b8f-80e441c05d08/2eeb5b34-c445-4914-b41b-f611e24c0c64"
-					(reference "#FLG02")
 					(unit 1)
 				)
 			)

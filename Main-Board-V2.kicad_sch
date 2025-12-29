@@ -3463,6 +3463,10 @@
 		(uuid "849b6a9a-91dc-4e63-ab56-909c9a710565")
 	)
 	(no_connect
+		(at 179.07 83.82)
+		(uuid "8518c974-021b-4453-8d74-4a817e078048")
+	)
+	(no_connect
 		(at 234.95 96.52)
 		(uuid "8534b909-6d3b-4ee2-a990-21d026f9ffc6")
 	)
@@ -3489,6 +3493,10 @@
 	(no_connect
 		(at 234.95 55.88)
 		(uuid "c54ebefe-d1d0-4b76-867f-6ec5168a14d3")
+	)
+	(no_connect
+		(at 179.07 81.28)
+		(uuid "ca540acf-2822-49b4-8019-28ce54d677a0")
 	)
 	(no_connect
 		(at 179.07 99.06)
@@ -5622,7 +5630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Cap10U:CAPC2012X145N"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 282.9052 198.12 0)
 			(effects
 				(font
@@ -5683,7 +5691,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100R"
 			(at 92.71 220.9799 0)
 			(effects
 				(font
@@ -6304,7 +6312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 167.3352 222.25 0)
 			(effects
 				(font
@@ -6673,7 +6681,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 96.52 207.01 90)
 			(effects
 				(font
@@ -7231,7 +7239,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 160.02 207.01 90)
 			(effects
 				(font
@@ -7432,7 +7440,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 105.41 204.4699 0)
 			(effects
 				(font
@@ -7502,7 +7510,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 156.21 220.9799 0)
 			(effects
 				(font
@@ -7714,7 +7722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Cap10U:CAPC2012X145N"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 329.8952 200.66 0)
 			(effects
 				(font
