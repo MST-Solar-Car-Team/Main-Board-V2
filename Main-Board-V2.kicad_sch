@@ -3659,10 +3659,6 @@
 		(uuid "181b3cc6-38d0-43be-893c-ff95dde127ba")
 	)
 	(no_connect
-		(at 236.22 106.68)
-		(uuid "18dacb7b-0bdb-4cc1-8355-ec1509d2af4f")
-	)
-	(no_connect
 		(at 292.1 99.06)
 		(uuid "18e9f7c6-2f6d-4e08-b750-1b2e431ed436")
 	)
@@ -3689,10 +3685,6 @@
 	(no_connect
 		(at 292.1 78.74)
 		(uuid "491660da-8f0e-4c53-94b0-2e3d42bf84c2")
-	)
-	(no_connect
-		(at 236.22 109.22)
-		(uuid "4c7a7e48-2a79-4028-a90c-aabdc60117fa")
 	)
 	(no_connect
 		(at 66.04 55.88)
@@ -7123,7 +7115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "150R"
 			(at 205.74 208.2799 0)
 			(effects
 				(font
@@ -8374,7 +8366,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "150R"
 			(at 180.34 208.2799 0)
 			(effects
 				(font
