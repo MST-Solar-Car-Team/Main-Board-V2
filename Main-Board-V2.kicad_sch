@@ -3923,6 +3923,10 @@
 		(uuid "75267c58-5e45-496c-b9a7-6a09973cb92d")
 	)
 	(no_connect
+		(at 236.22 109.22)
+		(uuid "772b192d-e994-4c6b-9a98-b21a82d322e6")
+	)
+	(no_connect
 		(at 292.1 55.88)
 		(uuid "77c57b92-5cbc-42d8-bd69-371b9ffe3813")
 	)
@@ -3945,6 +3949,10 @@
 	(no_connect
 		(at 292.1 68.58)
 		(uuid "98b8a7c2-018c-45bc-a445-c48bf999c972")
+	)
+	(no_connect
+		(at 236.22 106.68)
+		(uuid "9abb7dae-b055-4a46-a2fc-29b994ee0409")
 	)
 	(no_connect
 		(at 292.1 86.36)
@@ -5801,7 +5809,7 @@
 		)
 		(uuid "2d20e391-ba0c-4729-a275-abc8fc81ec01")
 	)
-	(label "ThrottleIO"
+	(label "Throttle1IO"
 		(at 231.14 111.76 180)
 		(effects
 			(font
@@ -6031,7 +6039,7 @@
 		)
 		(uuid "b7d4774d-61dc-42eb-b2b4-57610a381c19")
 	)
-	(label "BrakeIO"
+	(label "Throttle2IO"
 		(at 231.14 114.3 180)
 		(effects
 			(font
@@ -6071,7 +6079,7 @@
 		)
 		(uuid "efb8c88c-16c5-46ab-b732-b278eb320170")
 	)
-	(label "BrakeLightIO"
+	(label "BrakeRelay"
 		(at 138.43 118.11 0)
 		(effects
 			(font
