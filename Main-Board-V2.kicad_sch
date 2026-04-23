@@ -5729,6 +5729,16 @@
 		)
 		(uuid "08c78ede-4362-4547-8191-d5b11dabe227")
 	)
+	(label "BrakeRelay"
+		(at 232.41 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0951daa2-93e5-40c3-ae79-a70847457e50")
+	)
 	(label "USART_RX"
 		(at 231.14 124.46 180)
 		(effects
@@ -5769,16 +5779,6 @@
 		)
 		(uuid "17466640-ef78-4597-aba4-b1d89821b8e5")
 	)
-	(label "LeftSignalIO"
-		(at 232.41 86.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "17758795-4b8b-40bd-924a-ea53c96f78c6")
-	)
 	(label "ErrorIO"
 		(at 232.41 76.2 180)
 		(effects
@@ -5798,16 +5798,6 @@
 			(justify right bottom)
 		)
 		(uuid "228d9909-e81d-4cb8-a61e-d1374e5e5b45")
-	)
-	(label "RightSignalIO"
-		(at 232.41 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2ce79830-6165-44c9-8e5c-52668d94ba93")
 	)
 	(label "Dio5"
 		(at 118.11 71.12 0)
@@ -5838,6 +5828,16 @@
 			(justify left bottom)
 		)
 		(uuid "39689f8c-91ea-4872-b03e-7b732bc3836d")
+	)
+	(label "RightSignalIO"
+		(at 232.41 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "41f9ba78-49af-4c3e-9fa5-e16df4490237")
 	)
 	(label "BrakeIO"
 		(at 138.43 86.36 0)
@@ -5938,16 +5938,6 @@
 			(justify left bottom)
 		)
 		(uuid "6d534430-3e2e-4a93-a308-d7e93626c100")
-	)
-	(label "BrakeRelay"
-		(at 232.41 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "72d536d9-c9ff-4616-ac03-0232aa0efb3a")
 	)
 	(label "ErrorIO"
 		(at 142.24 90.17 0)
@@ -6068,6 +6058,16 @@
 			(justify left bottom)
 		)
 		(uuid "e2266a42-885b-4ca0-9ce4-faadebfaa099")
+	)
+	(label "LeftSignalIO"
+		(at 232.41 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ed6bb1e1-cf52-4250-919f-be84a1369bad")
 	)
 	(label "Dio5"
 		(at 232.41 73.66 180)
