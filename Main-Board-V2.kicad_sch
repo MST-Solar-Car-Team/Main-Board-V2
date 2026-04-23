@@ -5709,6 +5709,16 @@
 		)
 		(uuid "ff35d79d-554a-48ce-8625-d235c03ec6be")
 	)
+	(label "HornIO"
+		(at 232.41 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "048964c6-7f68-43bc-8068-d18fab0471dc")
+	)
 	(label "BattRelay"
 		(at 232.41 83.82 180)
 		(effects
@@ -5759,6 +5769,16 @@
 		)
 		(uuid "17466640-ef78-4597-aba4-b1d89821b8e5")
 	)
+	(label "LeftSignalIO"
+		(at 232.41 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "17758795-4b8b-40bd-924a-ea53c96f78c6")
+	)
 	(label "ErrorIO"
 		(at 232.41 76.2 180)
 		(effects
@@ -5768,16 +5788,6 @@
 			(justify right bottom)
 		)
 		(uuid "19a1ac7b-f2db-424d-a636-71b1b1faa92f")
-	)
-	(label "LeftSignalIO"
-		(at 232.41 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1df94796-9249-4cc8-abc5-fb9965210443")
 	)
 	(label "Encoder"
 		(at 273.05 212.09 180)
@@ -5790,14 +5800,14 @@
 		(uuid "228d9909-e81d-4cb8-a61e-d1374e5e5b45")
 	)
 	(label "RightSignalIO"
-		(at 232.41 86.36 180)
+		(at 232.41 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "2aff5651-663b-4e72-8da9-e78e8f69556e")
+		(uuid "2ce79830-6165-44c9-8e5c-52668d94ba93")
 	)
 	(label "Dio5"
 		(at 118.11 71.12 0)
@@ -5848,16 +5858,6 @@
 			(justify right bottom)
 		)
 		(uuid "4b2ae1a2-d818-45be-bf30-cca300131eb8")
-	)
-	(label "BrakeRelay"
-		(at 232.41 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4db75a13-70eb-4c30-ba1f-5327f61e6b80")
 	)
 	(label "Dio3"
 		(at 232.41 68.58 180)
@@ -5938,6 +5938,16 @@
 			(justify left bottom)
 		)
 		(uuid "6d534430-3e2e-4a93-a308-d7e93626c100")
+	)
+	(label "BrakeRelay"
+		(at 232.41 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "72d536d9-c9ff-4616-ac03-0232aa0efb3a")
 	)
 	(label "ErrorIO"
 		(at 142.24 90.17 0)
@@ -6028,16 +6038,6 @@
 			(justify right bottom)
 		)
 		(uuid "ac861143-18ca-4223-8c74-d0d8d61a8ecb")
-	)
-	(label "HornRelayIO"
-		(at 232.41 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b7d4774d-61dc-42eb-b2b4-57610a381c19")
 	)
 	(label "Throttle2IO"
 		(at 231.14 114.3 180)

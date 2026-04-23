@@ -1911,28 +1911,6 @@
 	)
 	(hierarchical_label "LeftSignal"
 		(shape output)
-		(at 182.88 121.92 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "45dcc6b5-5307-4e27-8a71-3f0db04a290f")
-	)
-	(hierarchical_label "BattIn"
-		(shape output)
-		(at 55.88 55.88 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "4cffa57d-bbab-4c6d-a5c1-f3d05373a051")
-	)
-	(hierarchical_label "RightSignal"
-		(shape output)
 		(at 172.72 48.26 180)
 		(effects
 			(font
@@ -1940,18 +1918,18 @@
 			)
 			(justify right)
 		)
-		(uuid "55988f10-9079-4d35-8003-136bdfb01aa7")
+		(uuid "30915b28-988d-4a3e-b5a7-55dc52eeab35")
 	)
-	(hierarchical_label "BrakeLight"
+	(hierarchical_label "BattIn"
 		(shape output)
-		(at 50.8 104.14 180)
+		(at 55.88 50.8 180)
 		(effects
 			(font
 				(size 1.524 1.524)
 			)
 			(justify right)
 		)
-		(uuid "71695e40-35fd-4718-8373-a64336f86c0b")
+		(uuid "4fe59613-e9a0-4447-8b0f-a6cb804af8ef")
 	)
 	(hierarchical_label "RightSigIn"
 		(shape input)
@@ -1964,6 +1942,17 @@
 		)
 		(uuid "8b462589-fa26-4ad3-980d-af05b0b90a5d")
 	)
+	(hierarchical_label "BattOut"
+		(shape output)
+		(at 55.88 55.88 180)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right)
+		)
+		(uuid "acafb67e-54a2-440c-83a3-11a842d4fcf2")
+	)
 	(hierarchical_label "BattRelay"
 		(shape input)
 		(at 99.06 38.1 0)
@@ -1975,16 +1964,16 @@
 		)
 		(uuid "aea887f7-445f-4c1c-9060-0c8436d310b8")
 	)
-	(hierarchical_label "BattOut"
+	(hierarchical_label "RightSignal"
 		(shape output)
-		(at 55.88 50.8 180)
+		(at 50.8 104.14 180)
 		(effects
 			(font
 				(size 1.524 1.524)
 			)
 			(justify right)
 		)
-		(uuid "ca8af0da-80ea-4579-ac6c-72689d53206b")
+		(uuid "c8118820-2c00-4b50-912f-e5e6b09725d6")
 	)
 	(hierarchical_label "HornIO"
 		(shape input)
@@ -1996,6 +1985,17 @@
 			(justify left)
 		)
 		(uuid "d58f72a5-ea33-4a2f-a76c-c1cbdc597cad")
+	)
+	(hierarchical_label "BrakeLight"
+		(shape output)
+		(at 182.88 121.92 180)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right)
+		)
+		(uuid "e3d1c21c-2169-404b-b610-19f32a917ae1")
 	)
 	(hierarchical_label "BrakeLightIO"
 		(shape input)
