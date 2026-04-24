@@ -1431,7 +1431,7 @@
 	)
 	(text "Throttle Error Pin"
 		(exclude_from_sim no)
-		(at 91.186 94.488 0)
+		(at 77.978 96.012 0)
 		(effects
 			(font
 				(size 3.81 3.81)
