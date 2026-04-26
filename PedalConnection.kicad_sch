@@ -1459,6 +1459,26 @@
 		)
 		(uuid "d1facbcc-033c-4d50-bad8-a04cec4f44a9")
 	)
+	(text "5V -> 3.3 V"
+		(exclude_from_sim no)
+		(at 183.642 47.244 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e76ce955-6037-468a-b3eb-5a2c0b850a91")
+	)
+	(text "5V -> 3.3 V"
+		(exclude_from_sim no)
+		(at 183.642 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f5ba5938-143c-4f2e-95ea-1dafadaa3f08")
+	)
 	(text "Analog Throttle 2 Reader"
 		(exclude_from_sim no)
 		(at 208.28 96.52 0)
@@ -2739,7 +2759,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N"
+		(property "Value" "0.1U"
 			(at 260.35 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3215,7 +3235,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N"
+		(property "Value" "0.1U"
 			(at 260.35 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3297,7 +3317,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "20k"
 			(at 195.58 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4951,7 +4971,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "20k"
 			(at 195.58 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)

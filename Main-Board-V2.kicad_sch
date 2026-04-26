@@ -3684,6 +3684,16 @@
 		)
 		(uuid "da23b15a-438c-4755-9196-2b3686aa1865")
 	)
+	(text "12 V -> 3 V"
+		(exclude_from_sim no)
+		(at 295.91 201.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0b0ed186-bc2d-4ba6-b2e5-92f0040a2995")
+	)
 	(text "LED Power Indicators"
 		(exclude_from_sim no)
 		(at 191.77 185.674 0)
@@ -7573,7 +7583,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N"
+		(property "Value" "0.1U"
 			(at 372.11 220.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8980,7 +8990,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1000R"
 			(at 361.95 208.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9217,7 +9227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "30k"
 			(at 307.34 205.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
