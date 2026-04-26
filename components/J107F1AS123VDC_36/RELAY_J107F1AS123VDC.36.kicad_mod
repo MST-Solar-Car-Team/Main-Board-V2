@@ -1,5 +1,5 @@
 
-(footprint RELAY_J107F1AS123VDC.36 (layer F.Cu) (tedit 68EE025D)
+(footprint RELAY_J107F1AS123VDC.36 (layer F.Cu) (tedit 69EDCA86)
   (descr "")
   (fp_text reference REF** (at -6.575 -9.65 0) (layer F.SilkS)
     (effects (font (size 1.0 1.0) (thickness 0.15)))

@@ -5729,26 +5729,6 @@
 		)
 		(uuid "048964c6-7f68-43bc-8068-d18fab0471dc")
 	)
-	(label "BattRelay"
-		(at 232.41 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "08c78ede-4362-4547-8191-d5b11dabe227")
-	)
-	(label "BrakeRelay"
-		(at 232.41 86.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0951daa2-93e5-40c3-ae79-a70847457e50")
-	)
 	(label "USART_RX"
 		(at 231.14 124.46 180)
 		(effects
@@ -5819,6 +5799,16 @@
 		)
 		(uuid "2d20e391-ba0c-4729-a275-abc8fc81ec01")
 	)
+	(label "BrakeRelay"
+		(at 232.41 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "30230835-37d7-4c1b-880a-2ac10907b63b")
+	)
 	(label "Throttle1IO"
 		(at 231.14 111.76 180)
 		(effects
@@ -5838,16 +5828,6 @@
 			(justify left bottom)
 		)
 		(uuid "39689f8c-91ea-4872-b03e-7b732bc3836d")
-	)
-	(label "RightSignalIO"
-		(at 232.41 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "41f9ba78-49af-4c3e-9fa5-e16df4490237")
 	)
 	(label "BrakeIO"
 		(at 138.43 86.36 0)
@@ -5979,6 +5959,16 @@
 		)
 		(uuid "872293b3-d77b-48c6-95db-99d6015e1aab")
 	)
+	(label "RightSignalIO"
+		(at 232.41 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "88270a51-0b02-44d6-8411-bd8d8b9c0d51")
+	)
 	(label "Dio4"
 		(at 232.41 71.12 180)
 		(effects
@@ -6008,6 +5998,16 @@
 			(justify right bottom)
 		)
 		(uuid "9757f8ec-3c64-433e-9f9c-9f71fa02b66d")
+	)
+	(label "LeftSignalIO"
+		(at 232.41 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a3020dd0-d0df-48a3-80d8-61fab4ff2a9e")
 	)
 	(label "Dio3"
 		(at 118.11 66.04 0)
@@ -6039,6 +6039,16 @@
 		)
 		(uuid "ac861143-18ca-4223-8c74-d0d8d61a8ecb")
 	)
+	(label "BattRelay"
+		(at 232.41 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ca44dfab-2803-4784-820e-1cf4d5c8997d")
+	)
 	(label "Throttle2IO"
 		(at 231.14 114.3 180)
 		(effects
@@ -6068,16 +6078,6 @@
 			(justify left bottom)
 		)
 		(uuid "e2266a42-885b-4ca0-9ce4-faadebfaa099")
-	)
-	(label "LeftSignalIO"
-		(at 232.41 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ed6bb1e1-cf52-4250-919f-be84a1369bad")
 	)
 	(label "Dio5"
 		(at 232.41 73.66 180)
